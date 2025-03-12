@@ -1,6 +1,6 @@
 {
 	"name": "@egov3/graphics",
-	"version": "1.0.45",
+	"version": "1.0.46",
 	"license": "MIT",
 	"main": "dist/cjs/index.js",
 	"module": "dist/esm/index.js",
@@ -12,9 +12,9 @@
 		"build": "tsup"
 	},
 	"repository": {
-    "type": "git",
-    "url": "https://github.com/egov3/graphics.git"
-  },
+		"type": "git",
+		"url": "https://github.com/egov3/graphics.git"
+	},
 	"peerDependencies": {
 		"react": "^19.0.0",
 		"react-dom": "^19.0.0"
