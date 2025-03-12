@@ -41,7 +41,7 @@ jobs:
 
       - name: Test git connection
         run: |
-          git ls-remote https://Zhassulan-Baigozha:${{ secrets.PERSONAL_TOKEN }}@github.com/egov3/graphincs.git
+          git ls-remote https://Zhassulan-Baigozha:${{ secrets.PERSONAL_TOKEN }}@github.com/egov3/graphics.git
         env:
           PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
 
@@ -52,8 +52,8 @@ jobs:
           git add package.json
           git commit -m "ci: bump version to $(jq -r '.version' package.json)"
           git stash --include-untracked
-          git pull --rebase https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/egov3/graphincs.git main
-          git push --force https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/egov3/graphincs.git main
+          git pull --rebase https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/egov3/graphics.git main
+          git push --force https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/egov3/graphics.git main
 
       - name: Publish to npm
         env:
