@@ -9,7 +9,8 @@
 	"author": "Zhassulan Baigozha",
 	"description": "A system-design graphics NPM package in Typescript",
 	"scripts": {
-		"build": "tsup"
+		"build": "tsup",
+		"prepublishOnly": "yarn build"
 	},
 	"repository": {
 		"type": "git",
@@ -29,5 +30,8 @@
 		"tslib": "^2.8.1",
 		"tsup": "^8.4.0",
 		"typescript": "^5.8.2"
-	}
+	},
+  "files": [
+    "dist"
+  ]
 }
