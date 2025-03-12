@@ -1,14 +1,20 @@
 {
-	"name": "my-component-library",
-	"version": "1.0.0",
+	"name": "@egov3/graphics",
+	"version": "1.0.45",
 	"license": "MIT",
 	"main": "dist/cjs/index.js",
 	"module": "dist/esm/index.js",
 	"types": "dist/index.d.ts",
 	"type": "module",
+	"author": "Zhassulan Baigozha",
+	"description": "A system-design graphics NPM package in Typescript",
 	"scripts": {
 		"build": "tsup"
 	},
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/egov3/graphics.git"
+  },
 	"peerDependencies": {
 		"react": "^19.0.0",
 		"react-dom": "^19.0.0"
