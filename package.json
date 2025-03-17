@@ -17,12 +17,8 @@
 		"url": "https://github.com/egov3/graphics.git"
 	},
 	"peerDependencies": {
-		"react": "^19.0.0",
-		"react-dom": "^19.0.0"
-	},
-	"dependencies": {
-		"react": "^19.0.0",
-		"react-dom": "^19.0.0"
+		"react": ">=18.0.0 <20.0.0",
+		"react-dom": ">=18.0.0 <20.0.0"
 	},
 	"devDependencies": {
 		"@types/react": "^19.0.10",
@@ -31,7 +27,6 @@
 		"tsup": "^8.4.0",
 		"typescript": "^5.8.2"
 	},
-	"files": [
-		"dist"
-	]
+	"files": ["dist"],
+	"sideEffects": false
 }
