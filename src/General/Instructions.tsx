@@ -1,0 +1,17 @@
+import React from "react";
+
+export const Instructions = (props: React.SVGProps<SVGSVGElement>) => (
+  <svg
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    xmlns="http://www.w3.org/2000/svg"
+    {...props}
+    fill="none"
+  >
+    <path
+      d="M22 5H18V3H6V5H2V19H6V21H18V19H22V5ZM4 17V7H6V17H4ZM16 19H8V5H16V19ZM20 17H18V7H20V17Z"
+      fill={props.fill ?? "black"}
+    />
+  </svg>
+);

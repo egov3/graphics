@@ -14,6 +14,8 @@ import { Apostille } from './Apostille';
 import { ApostilleFilled } from './ApostilleFilled';
 import { Archive } from './Archive';
 import { ArchiveFilled } from './ArchiveFilled';
+import { ArrowInCircleDown } from './ArrowInCircleDown';
+import { ArrowInCircleUp } from './ArrowInCircleUp';
 import { Bag } from './Bag';
 import { BagFilled } from './BagFilled';
 import { BagSearch } from './BagSearch';
@@ -60,6 +62,8 @@ import { ClearAlternative } from './ClearAlternative';
 import { Close } from './Close';
 import { College } from './College';
 import { CollegeFilled } from './CollegeFilled';
+import { ConfirmationNumber } from './ConfirmationNumber';
+import { ConfirmationNumberFilled } from './ConfirmationNumberFilled';
 import { Construction } from './Construction';
 import { ConstructionFilled } from './ConstructionFilled';
 import { Copy } from './Copy';
@@ -89,6 +93,7 @@ import { DocumentTable } from './DocumentTable';
 import { DocumentTableFilled } from './DocumentTableFilled';
 import { DragIndicator } from './DragIndicator';
 import { DriverLicense } from './DriverLicense';
+import { DriverPassport } from './DriverPassport';
 import { Earth } from './Earth';
 import { EarthFilled } from './EarthFilled';
 import { Edit } from './Edit';
@@ -141,6 +146,8 @@ import { HousServices } from './HousServices';
 import { HousServicesFilled } from './HousServicesFilled';
 import { InfoFilled } from './InfoFilled';
 import { InfoStroke } from './InfoStroke';
+import { Instructions } from './Instructions';
+import { InstructionsFilled } from './InstructionsFilled';
 import { Internet } from './Internet';
 import { Job } from './Job';
 import { JobFilled } from './JobFilled';
@@ -151,6 +158,8 @@ import { Law } from './Law';
 import { LawFilled } from './LawFilled';
 import { Leaf } from './Leaf';
 import { LeafFilled } from './LeafFilled';
+import { LibraryAdd } from './LibraryAdd';
+import { LibraryAddFilled } from './LibraryAddFilled';
 import { License } from './License';
 import { LicenseFilled } from './LicenseFilled';
 import { Licenses } from './Licenses';
@@ -191,6 +200,8 @@ import { MyDocument } from './MyDocument';
 import { MyDocumentFilled } from './MyDocumentFilled';
 import { Nature } from './Nature';
 import { NatureFilled } from './NatureFilled';
+import { News } from './News';
+import { NewsFilled } from './NewsFilled';
 import { Notification } from './Notification';
 import { NotificationFilled } from './NotificationFilled';
 import { OnlineRegistry } from './OnlineRegistry';
@@ -210,8 +221,13 @@ import { PharmacyFilled } from './PharmacyFilled';
 import { Phone } from './Phone';
 import { PieChart } from './PieChart';
 import { PieChartFilled } from './PieChartFilled';
+import { Pin } from './Pin';
+import { PinFilled } from './PinFilled';
+import { Printer } from './Printer';
+import { PrinteFilled } from './PrinterFilled';
 import { PublicOrder } from './PublicOrder';
 import { PublicOrderFilled } from './PublicOrderFilled';
+import { Push } from './Push';
 import { QrCodeFilled } from './QrCodeFilled';
 import { QrCodeOutline } from './QrCodeOutline';
 import { QrCodeScan } from './QrCodeScan';
@@ -226,6 +242,10 @@ import { RegistryFilled } from './RegistryFilled';
 import { Regulation } from './Regulation';
 import { RegulationFilled } from './RegulationFilled';
 import { Request } from './Request';
+import { Reservation } from './Reservation';
+import { ReservationFilled } from './ReservationFilled';
+import { Resources } from './Resources';
+import { ResourcesFilled } from './ResourcesFilled';
 import { Resume } from './Resume';
 import { ResumeFilled } from './ResumeFilled';
 import { RingsFamily } from './RingsFamily';
@@ -306,6 +326,8 @@ const General = {
   ApostilleFilled,
   Archive,
   ArchiveFilled,
+  ArrowInCircleDown,
+  ArrowInCircleUp,
   Bag,
   BagFilled,
   BagSearch,
@@ -352,6 +374,8 @@ const General = {
   Close,
   College,
   CollegeFilled,
+  ConfirmationNumber,
+  ConfirmationNumberFilled,
   Construction,
   ConstructionFilled,
   Copy,
@@ -381,6 +405,7 @@ const General = {
   DocumentTableFilled,
   DragIndicator,
   DriverLicense,
+  DriverPassport,
   Earth,
   EarthFilled,
   Edit,
@@ -433,6 +458,8 @@ const General = {
   HousServicesFilled,
   InfoFilled,
   InfoStroke,
+  Instructions,
+  InstructionsFilled,
   Internet,
   Job,
   JobFilled,
@@ -443,6 +470,8 @@ const General = {
   LawFilled,
   Leaf,
   LeafFilled,
+  LibraryAdd,
+  LibraryAddFilled,
   License,
   LicenseFilled,
   Licenses,
@@ -483,6 +512,8 @@ const General = {
   MyDocumentFilled,
   Nature,
   NatureFilled,
+  News,
+  NewsFilled,
   Notification,
   NotificationFilled,
   OnlineRegistry,
@@ -502,8 +533,13 @@ const General = {
   Phone,
   PieChart,
   PieChartFilled,
+  Pin,
+  PinFilled,
+  Printer,
+  PrinteFilled,
   PublicOrder,
   PublicOrderFilled,
+  Push,
   QrCodeFilled,
   QrCodeOutline,
   QrCodeScan,
@@ -518,6 +554,10 @@ const General = {
   Regulation,
   RegulationFilled,
   Request,
+  Reservation,
+  ReservationFilled,
+  Resources,
+  ResourcesFilled,
   Resume,
   ResumeFilled,
   RingsFamily,
