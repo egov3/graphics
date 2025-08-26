@@ -1,6 +1,6 @@
 {
 	"name": "@egov3/graphics",
-	"version": "1.0.49",
+	"version": "1.0.50",
 	"license": "MIT",
 	"main": "dist/index.cjs",
 	"module": "dist/index.js",
