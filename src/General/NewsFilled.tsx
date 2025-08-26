@@ -1,0 +1,17 @@
+import React from "react";
+
+export const NewsFilled = (props: React.SVGProps<SVGSVGElement>) => (
+  <svg
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    xmlns="http://www.w3.org/2000/svg"
+    {...props}
+    fill="none"
+  >
+    <path
+      d="M2 4V20H22V4H2ZM6 14.5449V9.455L10.408 12L6 14.5449ZM18 16H13V14.3H18V16ZM18 12.85H13V11.15H18V12.85ZM18 9.7H13V8H18V9.7Z"
+      fill={props.fill ?? "black"}
+    />
+  </svg>
+);

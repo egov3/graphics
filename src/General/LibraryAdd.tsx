@@ -1,0 +1,17 @@
+import React from "react";
+
+export const LibraryAdd = (props: React.SVGProps<SVGSVGElement>) => (
+  <svg
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    xmlns="http://www.w3.org/2000/svg"
+    {...props}
+    fill="none"
+  >
+    <path
+      d="M3 7V21H21V7H3ZM19 19H5V9H19V19ZM19 3H5V5H19V3ZM11.2 17.4471H12.8V14.8H15.4468V13.2H12.8V10.5529H11.2V13.2H8.5529V14.8H11.2V17.4471Z"
+      fill={props.fill ?? "black"}
+    />
+  </svg>
+);
