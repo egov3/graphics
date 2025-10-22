@@ -1,9 +1,9 @@
-import { AttachFileAdd } from './AttachFileAdd';
-import { Refresh } from './Refresh';
-import { SettingsFilled } from './SettingsFilled';
-import { SettingsOutline } from './SettingsOutline';
-import { Time } from './Time';
-import { TimeFilled } from './TimeFilled';
+import { AttachFileAdd } from "./AttachFileAdd";
+import { Refresh } from "./Refresh";
+import { SettingsFilled } from "./SettingsFilled";
+import { SettingsOutline } from "./SettingsOutline";
+import { Time } from "./Time";
+import { TimeFilled } from "./TimeFilled";
 
 const Additional = {
   AttachFileAdd,
@@ -11,7 +11,7 @@ const Additional = {
   SettingsOutline,
   SettingsFilled,
   Time,
-  TimeFilled
+  TimeFilled,
 };
 
 export default Additional;

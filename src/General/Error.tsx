@@ -1,6 +1,6 @@
-import React from "react";
+import type React from "react";
 
-export const Error = (props: React.SVGProps<SVGSVGElement>) => (
+export const ErrorIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

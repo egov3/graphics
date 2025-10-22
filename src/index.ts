@@ -5,7 +5,7 @@ import General from "./General";
 import Logo from "./Logo";
 import NavigationBar from "./NavigationBar";
 
-const Icons =  {
+const Icons = {
   General,
   Basic,
   Logo,

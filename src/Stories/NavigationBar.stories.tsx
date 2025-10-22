@@ -1,7 +1,5 @@
 "use client";
 
-import React from "react";
-
 import NavigationBar from "../NavigationBar";
 import { CardWrapperItem } from "./CardWrapperItem";
 

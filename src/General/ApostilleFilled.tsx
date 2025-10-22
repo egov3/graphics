@@ -1,4 +1,4 @@
-import React from "react";
+import type React from "react";
 
 export const ApostilleFilled = (props: React.SVGProps<SVGSVGElement>) => (
   <svg

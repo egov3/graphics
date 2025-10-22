@@ -1,4 +1,4 @@
-import React from "react";
+import type React from "react";
 
 export const ArrowInCircleUp = (props: React.SVGProps<SVGSVGElement>) => (
   <svg

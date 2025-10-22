@@ -1,7 +1,5 @@
 "use client";
 
-import React from "react";
-
 import Basic from "../Basic";
 import { CardWrapperItem } from "./CardWrapperItem";
 
