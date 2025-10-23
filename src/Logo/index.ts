@@ -1,11 +1,11 @@
-import { ApplePay } from './ApplePay';
-import { Con1 } from './Con1';
-import { Egov } from './Egov';
-import { Eotinish } from './Eotinish';
-import { Halyk } from './Halyk';
-import { Kaspi } from './Kaspi';
-import { Mastercard } from './Mastercard';
-import { Salyq } from './Salyq';
+import { ApplePay } from "./ApplePay";
+import { Con1 } from "./Con1";
+import { Egov } from "./Egov";
+import { Eotinish } from "./Eotinish";
+import { Halyk } from "./Halyk";
+import { Kaspi } from "./Kaspi";
+import { Mastercard } from "./Mastercard";
+import { Salyq } from "./Salyq";
 
 const Logo = {
   ApplePay,
@@ -15,7 +15,7 @@ const Logo = {
   Halyk,
   Kaspi,
   Mastercard,
-  Salyq
+  Salyq,
 };
 
 export default Logo;

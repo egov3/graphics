@@ -1,7 +1,7 @@
-import React from "react";
+import type React from "react";
 
 export const GuardianshipChildFilled = (
-  props: React.SVGProps<SVGSVGElement>
+  props: React.SVGProps<SVGSVGElement>,
 ) => (
   <svg
     width="24"

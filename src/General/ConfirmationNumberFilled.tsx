@@ -1,6 +1,8 @@
-import React from "react";
+import type React from "react";
 
-export const ConfirmationNumberFilled = (props: React.SVGProps<SVGSVGElement>) => (
+export const ConfirmationNumberFilled = (
+  props: React.SVGProps<SVGSVGElement>,
+) => (
   <svg
     width="24"
     height="24"

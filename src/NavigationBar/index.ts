@@ -1,11 +1,11 @@
-import { HomeFilled } from './HomeFilled';
-import { HomeOutline } from './HomeOutline';
-import { MessageListFilled } from './MessageListFilled';
-import { MessageListOutline } from './MessageListOutline';
-import { QrCodeFilled } from './QrCodeFilled';
-import { QrCodeOutline } from './QrCodeOutline';
-import { ServicesFilled } from './ServicesFilled';
-import { ServicesOutline } from './ServicesOutline';
+import { HomeFilled } from "./HomeFilled";
+import { HomeOutline } from "./HomeOutline";
+import { MessageListFilled } from "./MessageListFilled";
+import { MessageListOutline } from "./MessageListOutline";
+import { QrCodeFilled } from "./QrCodeFilled";
+import { QrCodeOutline } from "./QrCodeOutline";
+import { ServicesFilled } from "./ServicesFilled";
+import { ServicesOutline } from "./ServicesOutline";
 
 const NavigationBar = {
   HomeFilled,
@@ -15,7 +15,7 @@ const NavigationBar = {
   QrCodeFilled,
   QrCodeOutline,
   ServicesFilled,
-  ServicesOutline
+  ServicesOutline,
 };
 
 export default NavigationBar;

@@ -1,7 +1,5 @@
 "use client";
 
-import React from "react";
-
 import Emoji from "../Emoji";
 import { CardWrapperItem } from "./CardWrapperItem";
 

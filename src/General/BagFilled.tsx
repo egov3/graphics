@@ -1,4 +1,4 @@
-import React from "react";
+import type React from "react";
 
 export const BagFilled = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
