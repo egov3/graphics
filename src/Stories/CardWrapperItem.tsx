@@ -1,29 +1,14 @@
+// src/Stories/CardWrapperItem.tsx
 import type React from "react";
+
+import styles from "./common.module.css";
 
 export const CardWrapperItem = ({
   children,
 }: {
   children: React.ReactNode;
 }) => (
-  <div
-    style={{
-      display: "flex",
-      justifyContent: "center",
-      minHeight: "100px",
-    }}
-  >
-    <div
-      style={{
-        backgroundColor: "bisque",
-        padding: "9px",
-        display: "flex",
-        width: "80%",
-        flexDirection: "column",
-        borderRadius: "20px",
-        justifyContent: "center",
-      }}
-    >
-      {children}
-    </div>
+  <div className={styles.cardWrapperItemWrapper}>
+    <div className={styles.cardWrapperItem}>{children}</div>
   </div>
 );

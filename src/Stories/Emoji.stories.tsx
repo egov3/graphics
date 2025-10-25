@@ -3,34 +3,15 @@
 import Emoji from "../Emoji";
 import { CardWrapperItem } from "./CardWrapperItem";
 
+import styles from "./common.module.css";
+
 const DefaultEmojiComponent = () => (
   <CardWrapperItem>
-    <div
-      style={{
-        borderRadius: "12px",
-        display: "flex",
-        justifyContent: "center",
-      }}
-    >
-      <div
-        style={{
-          display: "flex",
-          flexDirection: "column",
-        }}
-      >
-        {Object.entries(Emoji).map(([fieldName, Component]) => (
-          <div
-            key={fieldName}
-            style={{
-              display: "flex",
-              justifyContent: "space-between",
-            }}
-          >
-            {fieldName}: <Component key={fieldName} />
-          </div>
-        ))}
+    {Object.entries(Emoji).map(([fieldName, Component]) => (
+      <div key={fieldName} className={styles.basicItem}>
+        {fieldName}: <Component key={fieldName} />
       </div>
-    </div>
+    ))}
   </CardWrapperItem>
 );
 

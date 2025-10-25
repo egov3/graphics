@@ -3,34 +3,15 @@
 import Logo from "../Logo";
 import { CardWrapperItem } from "./CardWrapperItem";
 
+import styles from "./common.module.css";
+
 const DefaultLogoComponent = () => (
   <CardWrapperItem>
-    <div
-      style={{
-        borderRadius: "12px",
-        display: "flex",
-        justifyContent: "center",
-      }}
-    >
-      <div
-        style={{
-          display: "flex",
-          flexDirection: "column",
-        }}
-      >
-        {Object.entries(Logo).map(([fieldName, Component]) => (
-          <div
-            key={fieldName}
-            style={{
-              display: "flex",
-              justifyContent: "space-between",
-            }}
-          >
-            {fieldName}: <Component key={fieldName} />
-          </div>
-        ))}
+    {Object.entries(Logo).map(([fieldName, Component]) => (
+      <div key={fieldName} className={styles.basicItem}>
+        {fieldName}: <Component key={fieldName} width="72px" height="72px" />
       </div>
-    </div>
+    ))}
   </CardWrapperItem>
 );
 
