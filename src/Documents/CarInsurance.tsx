@@ -1,10 +1,11 @@
-export const CarInsurance = () => (
+export const CarInsurance = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="95"
     height="60"
     viewBox="0 0 95 60"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
+    {...props}
   >
     <rect width="95.0006" height="60" rx="5.5539" fill="#CDF0FF" />
     <path

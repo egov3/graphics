@@ -1,10 +1,11 @@
-export const MastersDiploma = () => (
+export const MastersDiploma = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="64"
     height="60"
     viewBox="0 0 64 60"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
+    {...props}
   >
     <g clip-path="url(#clip0_1035_7027)">
       <rect width="64" height="60" rx="5.5539" fill="#9C0000" />

@@ -7,6 +7,7 @@ export const Notifications = (props: React.SVGProps<SVGSVGElement>) => (
     viewBox="0 0 160 172"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
+    {...props}
   >
     <path
       d="M51 36C35.536 36 23 48.536 23 64C23 79.4642 35.536 92 51 92C35.536 92 23 104.536 23 120C23 135.464 35.536 148 51 148C66.4642 148 79 135.464 79 120C79 135.464 91.5358 148 107 148C122.464 148 135 135.464 135 120C135 104.536 122.464 92 107 92C122.464 92 135 79.4642 135 64C135 48.536 122.464 36 107 36C91.5358 36 79 48.536 79 64C79 48.536 66.4642 36 51 36Z"
@@ -30,9 +31,7 @@ export const Notifications = (props: React.SVGProps<SVGSVGElement>) => (
         width="1"
         height="1"
       >
-        <use
-          transform="matrix(0.00125 0 0 0.00112981 0 -0.000504808)"
-        />
+        <use transform="matrix(0.00125 0 0 0.00112981 0 -0.000504808)" />
       </pattern>
       <linearGradient
         id="paint0_linear_346_1205"

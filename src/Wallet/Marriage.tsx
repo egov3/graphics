@@ -1,5 +1,11 @@
-export const Marriage = () => (
-  <svg xmlns="http://www.w3.org/2000/svg" width="109" height="84" fill="none">
+export const Marriage = (props: React.SVGProps<SVGSVGElement>) => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="109"
+    height="84"
+    fill="none"
+    {...props}
+  >
     <rect width="107" height="79" x="1" y="4" fill="#E1F0FB" rx="12" />
     <rect
       width="107"

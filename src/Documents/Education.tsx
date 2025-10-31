@@ -1,10 +1,11 @@
-export const Education = () => (
+export const Education = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="95"
     height="61"
     viewBox="0 0 95 61"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
+    {...props}
   >
     <rect
       width="95"

@@ -7,6 +7,7 @@ export const SignSuccess = (props: React.SVGProps<SVGSVGElement>) => (
     height="160"
     viewBox="0 0 160 160"
     fill="none"
+    {...props}
   >
     <g clip-path="url(#clip0_346_1222)">
       <path

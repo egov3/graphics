@@ -1,10 +1,11 @@
-export const CarDocument = () => (
+export const CarDocument = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="95"
     height="60"
     viewBox="0 0 95 60"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
+    {...props}
   >
     <rect width="95" height="60" rx="5.5539" fill="#EBCBE4" />
     <mask id="path-2-inside-1_454_4129" fill="white">

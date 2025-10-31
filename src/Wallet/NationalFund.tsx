@@ -1,10 +1,11 @@
-export const NationalFund = () => (
+export const NationalFund = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="109"
     height="84"
     viewBox="0 0 109 84"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
+    {...props}
   >
     <rect x="1" y="4" width="107" height="79" rx="12" fill="#E4ECB0" />
     <rect

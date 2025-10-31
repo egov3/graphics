@@ -1,10 +1,11 @@
-export const Driverlicense = () => (
+export const Driverlicense = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="109"
     height="84"
     viewBox="0 0 109 84"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
+    {...props}
   >
     <rect x="1" y="4" width="107" height="79" rx="12" fill="#EE9B6C" />
     <rect
