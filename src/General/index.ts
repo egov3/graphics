@@ -106,6 +106,7 @@ import { EmergencyFilled } from "./EmergencyFilled";
 import { Employment } from "./Employment";
 import { EmploymentFilled } from "./EmploymentFilled";
 import { ErrorIcon } from "./Error";
+import { ErrorFilledIcon } from "./ErrorFilled";
 import { Factory } from "./Factory";
 import { FactoryFilled } from "./FactoryFilled";
 import { Family } from "./Family";
@@ -418,6 +419,7 @@ const General = {
   Employment,
   EmploymentFilled,
   Error: ErrorIcon,
+  ErrorFilled: ErrorFilledIcon,
   Factory,
   FactoryFilled,
   Family,
