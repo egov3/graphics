@@ -34,8 +34,8 @@ export const RegistrationSuccess = (props: React.SVGProps<SVGSVGElement>) => (
         y2="152"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#C3E466" />
-        <stop offset="1" stop-color="#21D348" />
+        <stop stopColor="#C3E466" />
+        <stop offset="1" stopColor="#21D348" />
       </linearGradient>
     </defs>
   </svg>

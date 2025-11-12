@@ -10,20 +10,20 @@ export const Push = (props: React.SVGProps<SVGSVGElement>) => (
     fill="none"
   >
     <path
-      fill-rule="evenodd"
-      clip-rule="evenodd"
+      fillRule="evenodd"
+      clipRule="evenodd"
       d="M10 3C10 2.44772 10.4477 2 11 2H21C21.5523 2 22 2.44772 22 3V11C22 11.5523 21.5523 12 21 12H18.2361L14.4472 13.8944C14.1372 14.0494 13.7691 14.0329 13.4743 13.8507C13.1795 13.6684 13 13.3466 13 13V12H11C10.4477 12 10 11.5523 10 11V3ZM15 11.382L17.5528 10.1056C17.6916 10.0361 17.8448 10 18 10H20V4H12V10H14C14.5523 10 15 10.4477 15 11V11.382Z"
       fill={props.fill ?? "black"}
     />
     <path
-      fill-rule="evenodd"
-      clip-rule="evenodd"
+      fillRule="evenodd"
+      clipRule="evenodd"
       d="M4.58579 4.58579C4.96086 4.21071 5.46957 4 6 4H8C8.55228 4 9 4.44772 9 5C9 5.55228 8.55228 6 8 6H6L6 20H14V16C14 15.4477 14.4477 15 15 15C15.5523 15 16 15.4477 16 16V20C16 20.5304 15.7893 21.0391 15.4142 21.4142C15.0391 21.7893 14.5304 22 14 22H6C5.46957 22 4.96086 21.7893 4.58579 21.4142C4.21071 21.0391 4 20.5304 4 20V6C4 5.46957 4.21071 4.96086 4.58579 4.58579Z"
       fill={props.fill ?? "black"}
     />
     <path
-      fill-rule="evenodd"
-      clip-rule="evenodd"
+      fillRule="evenodd"
+      clipRule="evenodd"
       d="M10 17C10.5523 17 11 17.4477 11 18V18.01C11 18.5623 10.5523 19.01 10 19.01C9.44772 19.01 9 18.5623 9 18.01V18C9 17.4477 9.44772 17 10 17Z"
       fill={props.fill ?? "black"}
     />

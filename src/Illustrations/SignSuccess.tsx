@@ -9,7 +9,7 @@ export const SignSuccess = (props: React.SVGProps<SVGSVGElement>) => (
     fill="none"
     {...props}
   >
-    <g clip-path="url(#clip0_346_1222)">
+    <g clipPath="url(#clip0_346_1222)">
       <path
         d="M86.7378 6.95991C90.903 21.4857 82.814 36.5489 68.6705 40.6044C54.5269 44.66 39.6848 36.1723 35.5196 21.6465L86.7378 6.95991Z"
         fill="url(#paint0_linear_346_1222)"
@@ -40,8 +40,8 @@ export const SignSuccess = (props: React.SVGProps<SVGSVGElement>) => (
         y2="145.117"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#FF9B7B" />
-        <stop offset="1" stop-color="#F329D3" />
+        <stop stopColor="#FF9B7B" />
+        <stop offset="1" stopColor="#F329D3" />
       </linearGradient>
       <linearGradient
         id="paint1_linear_346_1222"
@@ -51,8 +51,8 @@ export const SignSuccess = (props: React.SVGProps<SVGSVGElement>) => (
         y2="145.117"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#FF9B7B" />
-        <stop offset="1" stop-color="#F329D3" />
+        <stop stopColor="#FF9B7B" />
+        <stop offset="1" stopColor="#F329D3" />
       </linearGradient>
       <linearGradient
         id="paint2_linear_346_1222"
@@ -62,8 +62,8 @@ export const SignSuccess = (props: React.SVGProps<SVGSVGElement>) => (
         y2="145.117"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#FF9B7B" />
-        <stop offset="1" stop-color="#F329D3" />
+        <stop stopColor="#FF9B7B" />
+        <stop offset="1" stopColor="#F329D3" />
       </linearGradient>
       <clipPath id="clip0_346_1222">
         <rect width="160" height="160" fill="white" />

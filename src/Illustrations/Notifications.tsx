@@ -16,12 +16,12 @@ export const Notifications = (props: React.SVGProps<SVGSVGElement>) => (
     <path
       d="M69 109C70.5 110.5 74.8 113.5 80 113.5C85.2 113.5 87.8333 110.5 88.5 109M51.5 140.5C50.1667 147.833 47.4 163 47 165C46.6 167 42.8333 167.167 41 167M101.5 138.5C100.833 145.833 99.5 161.4 99.5 165C99.5 168.6 102.5 167.833 104 167M116.5 100.5C122.5 100.667 135.3 97.2 138.5 82M30 113.5C25.3333 114.667 15.9 119.6 15.5 130"
       stroke="black"
-      stroke-width="3"
+      strokeWidth="3"
     />
     <path
       d="M138.5 52C138.667 69.3333 139.4 105 141 109M138.5 52L135.5 54.5M138.5 52L140.5 54.5"
       stroke="black"
-      stroke-width="2"
+      strokeWidth="2"
     />
     <rect x="112" width="47" height="52" fill="url(#pattern0_346_1205)" />
     <defs>
@@ -41,8 +41,8 @@ export const Notifications = (props: React.SVGProps<SVGSVGElement>) => (
         y2="148"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#C3E466" />
-        <stop offset="1" stop-color="#21D348" />
+        <stop stopColor="#C3E466" />
+        <stop offset="1" stopColor="#21D348" />
       </linearGradient>
       <image
         id="image0_346_1205"

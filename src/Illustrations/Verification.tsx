@@ -10,15 +10,15 @@ export const Verification = (props: React.SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <path
-      fill-rule="evenodd"
-      clip-rule="evenodd"
+      fillRule="evenodd"
+      clipRule="evenodd"
       d="M76.4395 104.033C51.0732 102.432 31 81.5685 31 56.0658C31 29.5198 52.7492 8 79.5783 8C106.407 8 128.157 29.5198 128.157 56.0658C128.157 81.5685 108.083 102.432 82.7171 104.033C108.083 105.634 128.157 126.497 128.157 152L106.674 152L106.675 151.831C106.675 137.115 94.6175 125.184 79.7439 125.184C64.8702 125.184 52.8127 137.115 52.8127 151.831L52.8133 152L31 152C31 126.497 51.0732 105.634 76.4395 104.033ZM52.4739 56.2345C52.4739 70.9512 64.5313 82.8815 79.405 82.8815C94.2786 82.8815 106.336 70.9512 106.336 56.2345C106.336 41.5177 94.2786 29.5875 79.405 29.5875C64.5313 29.5875 52.4739 41.5177 52.4739 56.2345Z"
       fill="url(#paint0_linear_346_1184)"
     />
     <path
       d="M31.8433 17.3306C31.8433 9.293 31.8433 3.70154 43.4009 3.70154M32.1935 91.4167C32.1935 98.4238 32.1935 103.298 43.4009 103.298M128.157 17.3306C128.157 9.49909 128.157 4.051 116.249 4.051M128.157 91.4167C128.157 98.4238 128.157 103.298 116.249 103.298"
       stroke="black"
-      stroke-width="3"
+      strokeWidth="3"
     />
     <defs>
       <linearGradient
@@ -29,8 +29,8 @@ export const Verification = (props: React.SVGProps<SVGSVGElement>) => (
         y2="152"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#88C9EE" />
-        <stop offset="1" stop-color="#247AFB" />
+        <stop stopColor="#88C9EE" />
+        <stop offset="1" stopColor="#247AFB" />
       </linearGradient>
     </defs>
   </svg>

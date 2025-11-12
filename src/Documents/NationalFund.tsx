@@ -291,10 +291,10 @@ export const NationalFund = (props: React.SVGProps<SVGSVGElement>) => (
         y2="49.5565"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#EFF2D7" />
-        <stop offset="0.495" stop-color="#E7EFD9" />
-        <stop offset="0.75" stop-color="#E4F0E1" />
-        <stop offset="1" stop-color="#DBEEEE" />
+        <stop stopColor="#EFF2D7" />
+        <stop offset="0.495" stopColor="#E7EFD9" />
+        <stop offset="0.75" stopColor="#E4F0E1" />
+        <stop offset="1" stopColor="#DBEEEE" />
       </linearGradient>
       <clipPath id="clip0_1043_7555">
         <rect width="95" height="60.371" rx="5.55" fill="white" />
