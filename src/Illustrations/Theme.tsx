@@ -10,8 +10,8 @@ export const ThemeGraphics = (props: React.SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <path
-      fill-rule="evenodd"
-      clip-rule="evenodd"
+      fillRule="evenodd"
+      clipRule="evenodd"
       d="M101.857 53.5714H56.1429C41.6257 53.5714 29.8571 65.3399 29.8571 79.8571C29.8571 94.3743 41.6257 106.143 56.1429 106.143H101.857C116.374 106.143 128.143 94.3743 128.143 79.8571C128.143 65.3399 116.374 53.5714 101.857 53.5714ZM7 79.8571C7 106.998 29.002 129 56.1429 129H101.857C128.998 129 151 106.998 151 79.8571C151 52.7162 128.998 30.7142 101.857 30.7142H56.1429C29.002 30.7142 7 52.7162 7 79.8571Z"
       fill="url(#paint0_linear_346_1165)"
     />
@@ -28,8 +28,8 @@ export const ThemeGraphics = (props: React.SVGProps<SVGSVGElement>) => (
         y2="129"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#A3E1B0" />
-        <stop offset="1" stop-color="#54CDDE" />
+        <stop stopColor="#A3E1B0" />
+        <stop offset="1" stopColor="#54CDDE" />
       </linearGradient>
     </defs>
   </svg>
