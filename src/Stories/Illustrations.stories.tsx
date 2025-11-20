@@ -5,7 +5,7 @@ import { CardWrapperItem } from "./CardWrapperItem";
 
 import styles from "./common.module.css";
 
-const DefaultGeneralComponent = () => (
+const DefaultIllustrationsComponent = () => (
   <CardWrapperItem>
     {Object.entries(Illustrations).map(([fieldName, Component]) => (
       <div key={fieldName} className={styles.basicItem}>
@@ -15,7 +15,7 @@ const DefaultGeneralComponent = () => (
   </CardWrapperItem>
 );
 
-export const IllustrationsStory = () => <DefaultGeneralComponent />;
+export const IllustrationsStory = () => <DefaultIllustrationsComponent />;
 
 const meta = {
   title: "Illustrations",
