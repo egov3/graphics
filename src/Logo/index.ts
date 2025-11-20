@@ -5,6 +5,7 @@ import { Eotinish } from "./Eotinish";
 import { Halyk } from "./Halyk";
 import { Kaspi } from "./Kaspi";
 import { Mastercard } from "./Mastercard";
+import { QrCodeIcon } from "./QrCodeIcon";
 import { Salyq } from "./Salyq";
 
 const Logo = {
@@ -16,6 +17,7 @@ const Logo = {
   Kaspi,
   Mastercard,
   Salyq,
+  QrCodeIcon,
 };
 
 export default Logo;
