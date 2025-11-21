@@ -20,5 +20,5 @@ export const Icons = {
 export const Graphics = {
   Illustrations,
   Documents,
-  Wallet
-}
+  Wallet,
+};

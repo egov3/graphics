@@ -16,7 +16,6 @@ import { Verification } from "./Verification";
 import { VerificationError } from "./VerificationError";
 import { VerificationSuccess } from "./VerificationSuccess";
 
-
 const Illustrations = {
   FaceId,
   InternetNotAvailable,
@@ -34,7 +33,7 @@ const Illustrations = {
   TouchId,
   Verification,
   VerificationError,
-  VerificationSuccess
+  VerificationSuccess,
 };
 
 export default Illustrations;
