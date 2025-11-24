@@ -1,13 +1,13 @@
 "use client";
 
-import Additional from "../Additional";
+import { Documents } from "../Documents";
 import { CardWrapperItem } from "./CardWrapperItem";
 
 import styles from "./common.module.css";
 
-const DefaultAdditionalComponent = () => (
+const DefaultDocumentsComponent = () => (
   <CardWrapperItem>
-    {Object.entries(Additional).map(([fieldName, Component]) => (
+    {Object.entries(Documents).map(([fieldName, Component]) => (
       <div key={fieldName} className={styles.basicItem}>
         {fieldName}: <Component key={fieldName} />
       </div>
@@ -15,11 +15,11 @@ const DefaultAdditionalComponent = () => (
   </CardWrapperItem>
 );
 
-export const AdditionalStory = () => <DefaultAdditionalComponent />;
+export const DocumentsStory = () => <DefaultDocumentsComponent />;
 
 const meta = {
-  title: "Additional",
-  component: Additional,
+  title: "Documents",
+  component: Documents,
 };
 
 export default meta;
