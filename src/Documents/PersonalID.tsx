@@ -5,6 +5,7 @@ export const PersonalID = (props: React.SVGProps<SVGSVGElement>) => (
     viewBox="0 0 95 61"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
+    data-testid="PersonalIDIllustration"
     {...props}
   >
     <rect width="95" height="60.371" rx="5.58823" fill="#CCDAE0" />

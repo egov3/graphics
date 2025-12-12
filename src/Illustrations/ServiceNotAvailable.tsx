@@ -7,6 +7,7 @@ export const ServiceNotAvailable = (props: React.SVGProps<SVGSVGElement>) => (
     height="160"
     viewBox="0 0 160 160"
     fill="none"
+    data-testid="ServiceNotAvailableIllustration"
     {...props}
   >
     <path

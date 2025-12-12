@@ -7,6 +7,7 @@ export const LanguageGraphics = (props: React.SVGProps<SVGSVGElement>) => (
     viewBox="0 0 160 160"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
+    data-testid="LanguageGraphicsIllustration"
     {...props}
   >
     <path

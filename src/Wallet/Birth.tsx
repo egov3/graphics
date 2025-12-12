@@ -4,6 +4,7 @@ export const Birth = (props: React.SVGProps<SVGSVGElement>) => (
     width="109"
     height="84"
     fill="none"
+    data-testid="BirthWalletIllustration"
     {...props}
   >
     <rect width="107" height="79" x="1" y="4" fill="#B0E3F8" rx="12" />

@@ -5,6 +5,7 @@ export const Passport = (props: React.SVGProps<SVGSVGElement>) => (
     viewBox="0 0 109 84"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
+    data-testid="PassportWalletIllustration"
     {...props}
   >
     <rect x="1" y="4" width="107" height="79" rx="12" fill="#E3E7EB" />
