@@ -5,6 +5,7 @@ export const CarDocument = (props: React.SVGProps<SVGSVGElement>) => (
     viewBox="0 0 95 60"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
+    data-testid="CarDocumentIllustration"
     {...props}
   >
     <rect width="95" height="60" rx="5.5539" fill="#EBCBE4" />

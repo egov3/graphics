@@ -7,6 +7,7 @@ export const Notifications = (props: React.SVGProps<SVGSVGElement>) => (
     viewBox="0 0 160 172"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
+    data-testid="NotificationsIllustration"
     {...props}
   >
     <path

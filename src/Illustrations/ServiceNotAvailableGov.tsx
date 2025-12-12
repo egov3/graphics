@@ -9,6 +9,7 @@ export const ServiceNotAvailableGov = (
     height="160"
     viewBox="0 0 160 160"
     fill="none"
+    data-testid="ServiceNotAvailableGovIllustration"
     {...props}
   >
     <path

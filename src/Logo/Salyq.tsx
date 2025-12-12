@@ -7,6 +7,7 @@ export const Salyq = (props: React.SVGProps<SVGSVGElement>) => (
     viewBox="0 0 24 24"
     xmlns="http://www.w3.org/2000/svg"
     xmlnsXlink="http://www.w3.org/1999/xlink"
+    data-testid="SalyqIcon"
     {...props}
     fill="none"
   >

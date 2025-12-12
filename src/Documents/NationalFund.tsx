@@ -5,6 +5,7 @@ export const NationalFund = (props: React.SVGProps<SVGSVGElement>) => (
     viewBox="0 0 95 61"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
+    data-testid="NationalFundIllustration"
     {...props}
   >
     <g clipPath="url(#clip0_1043_7555)">

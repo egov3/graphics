@@ -6,6 +6,7 @@ export const MessagesCheck = (props: React.SVGProps<SVGSVGElement>) => (
     width="24"
     height="24"
     viewBox="0 0 24 24"
+    data-testid="MessagesCheckIcon"
     {...props}
     fill="none"
   >

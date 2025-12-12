@@ -5,6 +5,7 @@ export const Marriage = (props: React.SVGProps<SVGSVGElement>) => (
     viewBox="0 0 64 60"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
+    data-testid="MarriageIllustration"
     {...props}
   >
     <g clipPath="url(#clip0_1046_4523)">

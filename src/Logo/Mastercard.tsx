@@ -6,6 +6,7 @@ export const Mastercard = (props: React.SVGProps<SVGSVGElement>) => (
     height="24"
     viewBox="0 0 35 24"
     xmlns="http://www.w3.org/2000/svg"
+    data-testid="MastercardIcon"
     {...props}
     fill="none"
   >

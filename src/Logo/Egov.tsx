@@ -6,6 +6,7 @@ export const Egov = (props: React.SVGProps<SVGSVGElement>) => (
     width="24"
     height="24"
     viewBox="0 0 69 24"
+    data-testid="EgovIcon"
     {...props}
     fill="none"
   >
