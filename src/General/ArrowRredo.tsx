@@ -1,12 +1,12 @@
 import type React from "react";
 
-export const ArrowRredo = (props: React.SVGProps<SVGSVGElement>) => (
+export const ArrowRedo = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"
     viewBox="0 0 24 24"
     xmlns="http://www.w3.org/2000/svg"
-    data-testid="ArrowRredoIcon"
+    data-testid="ArrowRedoIcon"
     {...props}
     fill="none"
   >
