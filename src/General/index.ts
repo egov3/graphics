@@ -16,6 +16,7 @@ import { Archive } from "./Archive";
 import { ArchiveFilled } from "./ArchiveFilled";
 import { ArrowInCircleDown } from "./ArrowInCircleDown";
 import { ArrowInCircleUp } from "./ArrowInCircleUp";
+import { ArrowRredo } from "./ArrowRredo";
 import { Bag } from "./Bag";
 import { BagFilled } from "./BagFilled";
 import { BagSearch } from "./BagSearch";
@@ -328,6 +329,7 @@ const General = {
   ArchiveFilled,
   ArrowInCircleDown,
   ArrowInCircleUp,
+  ArrowRredo,
   Bag,
   BagFilled,
   BagSearch,
