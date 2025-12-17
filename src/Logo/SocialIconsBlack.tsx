@@ -1,0 +1,18 @@
+import type React from "react";
+
+export const SocialIconsBlack = (props: React.SVGProps<SVGSVGElement>) => (
+  <svg
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    xmlns="http://www.w3.org/2000/svg"
+    data-testid="SocialIconsBlackIcon"
+    {...props}
+    fill="none"
+  >
+    <path
+      d="M12 0C18.6274 0 24 5.37258 24 12C24 18.6274 18.6274 24 12 24C5.37258 24 0 18.6274 0 12C0 5.37258 5.37258 0 12 0ZM13.4766 6C11.3116 6.00001 10.5498 7.09139 10.5498 8.92676V10.2773H9.2002V12.5273H10.5498V19.0557H13.251V12.5273H15.0527L15.292 10.2773H13.251L13.2539 9.15137C13.2539 8.56459 13.3096 8.25001 14.1523 8.25H15.2793V6H13.4766Z"
+      fill={props.fill ?? "black"}
+    />
+  </svg>
+);
