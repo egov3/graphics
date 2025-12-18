@@ -20,7 +20,7 @@ import { ArchiveFilled } from "./ArchiveFilled";
 import { ArrowInCircleDown } from "./ArrowInCircleDown";
 import { ArrowInCircleLeftFilled } from "./ArrowInCircleLeftFilled";
 import { ArrowInCircleUp } from "./ArrowInCircleUp";
-import { ArrowRedo } from "./ArrowRredo";
+import { ArrowRedo } from "./ArrowRedo";
 import { Bag } from "./Bag";
 import { BagFilled } from "./BagFilled";
 import { BagSearch } from "./BagSearch";
