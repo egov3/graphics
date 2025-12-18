@@ -23,8 +23,8 @@ export const Budget = (props: React.SVGProps<SVGSVGElement>) => (
       fill="url(#paint2_linear_4420_4263)"
     />
     <path
-      fill-rule="evenodd"
-      clip-rule="evenodd"
+      fillRule="evenodd"
+      clipRule="evenodd"
       d="M12.2953 9.40936C16.3243 9.40936 19.5905 12.6755 19.5906 16.7047C19.5906 20.7338 16.3243 24 12.2953 24C8.26616 24 5 20.7338 5 16.7047C5.00002 12.6756 8.26617 9.40936 12.2953 9.40936ZM18.751 15.0974C18.7971 15.425 18.8214 15.7595 18.8214 16.0997C18.8214 20.0381 15.6288 23.2308 11.6904 23.2308C11.3555 23.2308 11.026 23.2072 10.7033 23.1625C12.3127 23.5595 14.0719 23.3595 15.6211 22.4651C18.2508 20.9468 19.4511 17.9038 18.751 15.0974ZM10.0686 16.2329H11.729V20.735H12.8623V16.2329H14.5228V15.2825H10.0686V16.2329ZM15.5045 10.879C14.0525 10.0788 12.3016 9.81684 10.5737 10.2798C7.64059 11.0657 5.69363 13.6942 5.64354 16.5862C5.68379 16.2579 5.74685 15.9285 5.83501 15.5998C6.85425 11.7957 10.7645 9.53811 14.5687 10.5574C14.8922 10.6441 15.2044 10.7523 15.5045 10.879ZM10.0686 14.9274H14.5228V13.9769H10.0686V14.9274Z"
       fill="#FAC900"
     />
@@ -37,8 +37,8 @@ export const Budget = (props: React.SVGProps<SVGSVGElement>) => (
         y2="33.2323"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#A5D612" />
-        <stop offset="1" stop-color="#006633" />
+        <stop stopColor="#A5D612" />
+        <stop offset="1" stopColor="#006633" />
       </linearGradient>
       <linearGradient
         id="paint1_linear_4420_4263"
@@ -48,8 +48,8 @@ export const Budget = (props: React.SVGProps<SVGSVGElement>) => (
         y2="30.6895"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#FFCC00" />
-        <stop offset="1" stop-color="#FF0066" />
+        <stop stopColor="#FFCC00" />
+        <stop offset="1" stopColor="#FF0066" />
       </linearGradient>
       <linearGradient
         id="paint2_linear_4420_4263"
@@ -59,8 +59,8 @@ export const Budget = (props: React.SVGProps<SVGSVGElement>) => (
         y2="51.7432"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#00CCFF" />
-        <stop offset="1" stop-color="#000066" />
+        <stop stopColor="#00CCFF" />
+        <stop offset="1" stopColor="#000066" />
       </linearGradient>
     </defs>{" "}
   </svg>

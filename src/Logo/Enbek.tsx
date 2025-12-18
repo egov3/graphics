@@ -11,8 +11,8 @@ export const Enbek = (props: React.SVGProps<SVGSVGElement>) => (
     fill="none"
   >
     <path
-      fill-rule="evenodd"
-      clip-rule="evenodd"
+      fillRule="evenodd"
+      clipRule="evenodd"
       d="M15.1113 17.7778C20.0204 17.7778 24 13.7981 24 8.88891C24 3.97969 20.0204 0 15.1113 0C10.2019 0 6.22222 3.97969 6.22222 8.88891H15.1113V17.7778Z"
       fill="url(#paint0_radial_4418_4198)"
     />
@@ -29,10 +29,10 @@ export const Enbek = (props: React.SVGProps<SVGSVGElement>) => (
         gradientUnits="userSpaceOnUse"
         gradientTransform="translate(12.0003 12) rotate(90) scale(12.0001 12)"
       >
-        <stop stop-color="#FFBC7F" />
-        <stop offset="0.40109" stop-color="#FFBD81" />
-        <stop offset="0.760417" stop-color="#FF9D40" />
-        <stop offset="0.9999" stop-color="#FF7E00" />
+        <stop stopColor="#FFBC7F" />
+        <stop offset="0.40109" stopColor="#FFBD81" />
+        <stop offset="0.760417" stopColor="#FF9D40" />
+        <stop offset="0.9999" stopColor="#FF7E00" />
       </radialGradient>
     </defs>
   </svg>

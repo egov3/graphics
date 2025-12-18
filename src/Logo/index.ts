@@ -1,4 +1,3 @@
-import { AIS } from "./AIS";
 import { Anticor } from "./Anticor";
 import { ApplePay } from "./ApplePay";
 import { Bilim } from "./Bilim";
@@ -24,7 +23,6 @@ import { Internet } from "./Internet";
 import { Kaspi } from "./Kaspi";
 import { KGK } from "./KGK";
 import { Mastercard } from "./Mastercard";
-import { Nomad } from "./Nomad";
 import { OpenGov } from "./OpenGov";
 import { PSC } from "./PSC";
 import { QazPost } from "./QazPost";
@@ -42,7 +40,6 @@ import { Youtube } from "./Youtube";
 import { ZanKomegi } from "./ZanKomegi";
 
 const Logo = {
-  AIS,
   Anticor,
   ApplePay,
   Bilim,
@@ -68,7 +65,6 @@ const Logo = {
   Kaspi,
   KGK,
   Mastercard,
-  Nomad,
   OpenGov,
   PSC,
   QazPost,
