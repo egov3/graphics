@@ -8,7 +8,6 @@ import { ConsumerProtection } from "./ConsumerProtection";
 import { EDensaulyq } from "./EDensaulyq";
 import { Egov } from "./Egov";
 import { ELicense } from "./ELicense";
-import { Eltanba } from "./Eltanba";
 import { ENPF } from "./ENPF";
 import { Enbek } from "./Enbek";
 import { Enis } from "./Enis";
@@ -50,7 +49,6 @@ const Logo = {
   EDensaulyq,
   Egov,
   ELicense,
-  Eltanba,
   Enbek,
   ENPF,
   Enis,
