@@ -8,14 +8,19 @@ import { Agroculture } from "./Agroculture";
 import { AgrocultureFilled } from "./AgrocultureFilled";
 import { Airplane } from "./Airplane";
 import { AirplaneFilled } from "./AirplaneFilled";
+import { AlignLeft } from "./AlignLeft";
+import { AlignRight } from "./AlignRight";
 import { Allowances } from "./Allowances";
 import { AllowancesFilled } from "./AllowancesFilled";
 import { Apostille } from "./Apostille";
 import { ApostilleFilled } from "./ApostilleFilled";
+import { ApplePay } from "./ApplePay";
 import { Archive } from "./Archive";
 import { ArchiveFilled } from "./ArchiveFilled";
 import { ArrowInCircleDown } from "./ArrowInCircleDown";
+import { ArrowInCircleLeftFilled } from "./ArrowInCircleLeftFilled";
 import { ArrowInCircleUp } from "./ArrowInCircleUp";
+import { ArrowRedo } from "./ArrowRedo";
 import { Bag } from "./Bag";
 import { BagFilled } from "./BagFilled";
 import { BagSearch } from "./BagSearch";
@@ -206,6 +211,7 @@ import { Notification } from "./Notification";
 import { NotificationFilled } from "./NotificationFilled";
 import { OnlineRegistry } from "./OnlineRegistry";
 import { OnlineRegistryFilled } from "./OnlineRegistryFilled";
+import { OpenInNew } from "./OpenInNew";
 import { PaperClip } from "./PaperClip";
 import { Passport } from "./Passport";
 import { Pension } from "./Pension";
@@ -322,12 +328,17 @@ const General = {
   AirplaneFilled,
   Allowances,
   AllowancesFilled,
+  AlignLeft,
+  AlignRight,
+  ApplePay,
   Apostille,
   ApostilleFilled,
   Archive,
   ArchiveFilled,
   ArrowInCircleDown,
+  ArrowInCircleLeftFilled,
   ArrowInCircleUp,
+  ArrowRedo,
   Bag,
   BagFilled,
   BagSearch,
@@ -355,8 +366,8 @@ const General = {
   Camera,
   CameraFilled,
   Car,
-  Card,
   CarFilled,
+  Card,
   Chat,
   ChatFilled,
   CheckboxEmpty,
@@ -518,6 +529,7 @@ const General = {
   NotificationFilled,
   OnlineRegistry,
   OnlineRegistryFilled,
+  OpenInNew,
   PaperClip,
   Passport,
   Pension,
