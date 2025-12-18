@@ -13,9 +13,10 @@ import { Eltanba } from "./Eltanba";
 import { ENPF } from "./ENPF";
 import { Enbek } from "./Enbek";
 import { Enis } from "./Enis";
-import { EOtinish2 } from "./EOtinish2";
-import { Eotinish } from "./Eotinish";
+import { EOtinish_2 } from "./EOtinish_2";
+import { EOtinish } from "./Eotinish";
 import { EPIR } from "./EPIR";
+import { Facebook } from "./Facebook";
 import { GKB } from "./GKB";
 import { Halyk } from "./Halyk";
 import { Instagram } from "./Instagram";
@@ -29,7 +30,6 @@ import { PSC } from "./PSC";
 import { QazPost } from "./QazPost";
 import { Quryltai } from "./Quryltai";
 import { Salyq } from "./Salyq";
-import { SocialIconsBlack } from "./SocialIconsBlack";
 import { Socialwallet } from "./Socialwallet";
 import { Sud } from "./Sud";
 import { TazaQz } from "./TazaQz";
@@ -58,8 +58,9 @@ const Logo = {
   ENPF,
   Enis,
   EPIR,
-  Eotinish,
-  EOtinish2,
+  EOtinish,
+  EOtinish_2,
+  Facebook,
   GKB,
   Halyk,
   Instagram,
@@ -73,7 +74,6 @@ const Logo = {
   QazPost,
   Quryltai,
   Salyq,
-  SocialIconsBlack,
   Socialwallet,
   Sud,
   TazaQz,

@@ -1,12 +1,12 @@
 import type React from "react";
 
-export const SocialIconsBlack = (props: React.SVGProps<SVGSVGElement>) => (
+export const Facebook = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"
     viewBox="0 0 24 24"
     xmlns="http://www.w3.org/2000/svg"
-    data-testid="SocialIconsBlackIcon"
+    data-testid="FacebookIcon"
     {...props}
     fill="none"
   >
