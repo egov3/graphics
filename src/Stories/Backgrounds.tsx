@@ -1,6 +1,5 @@
 import { Graphics } from "..";
 
-console.log(Graphics.Backgrounds["Auth-bg"]);
 const BackgroundsGallery = () => (
   <div
     style={{ display: "flex", flexDirection: "column", alignItems: "center" }}
