@@ -9,4 +9,7 @@ export default defineConfig({
   clean: true, // Очищаем dist перед сборкой
   minify: true, // Минификация
   external: ["react", "react-dom"], // Указываем peerDependencies как external
+  loader: {
+    ".webp": "copy",
+  },
 });
