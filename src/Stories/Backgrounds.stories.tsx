@@ -1,3 +1,4 @@
+import type { Meta, StoryObj } from "@storybook/react";
 import { Graphics } from "..";
 
 const BackgroundsGallery = () => (
@@ -17,9 +18,13 @@ const BackgroundsGallery = () => (
   </div>
 );
 
-export default {
+const meta: Meta<typeof BackgroundsGallery> = {
   title: "Backgrounds",
   component: BackgroundsGallery,
 };
 
-export const Backgrounds = () => <BackgroundsGallery />;
+export default meta;
+
+type Story = StoryObj<typeof BackgroundsGallery>;
+
+export const Default: Story = {};
