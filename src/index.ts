@@ -1,4 +1,5 @@
 import Additional from "./Additional";
+import { Backgrounds } from "./Background";
 import Basic from "./Basic";
 import { Documents } from "./Documents";
 import Emoji from "./Emoji";
@@ -21,4 +22,5 @@ export const Graphics = {
   Illustrations,
   Documents,
   Wallet,
+  Backgrounds,
 };
