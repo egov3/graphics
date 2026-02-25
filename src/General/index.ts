@@ -90,6 +90,7 @@ import { DebitCardFilled } from "./DebitCardFilled";
 import { DigitalId } from "./DigitalId";
 import { DisabilitySupport } from "./DisabilitySupport";
 import { DisabilitySupportFilled } from "./DisabilitySupportFilled";
+import { Divider } from "./Divider";
 import { Doc } from "./Doc";
 import { DocFilled } from "./DocFilled";
 import { DocumentDiagram } from "./DocumentDiagram";
@@ -117,6 +118,7 @@ import { Family } from "./Family";
 import { FamilyFilled } from "./FamilyFilled";
 import { FamilyHelp } from "./FamilyHelp";
 import { FamilyHelpFilled } from "./FamilyHelpFilled";
+import { Filter } from "./Filter";
 import { Finance } from "./Finance";
 import { FinanceFilled } from "./FinanceFilled";
 import { FinanceIncome } from "./FinanceIncome";
@@ -287,6 +289,7 @@ import { Star } from "./Star";
 import { StarFilled } from "./StarFilled";
 import { State } from "./State";
 import { StateFilled } from "./StateFilled";
+import { SwapVertical } from "./SwapVertical";
 import { Theaters } from "./Theaters";
 import { TheatersFilled } from "./TheatersFilled";
 import { Ticket } from "./Ticket";
@@ -632,6 +635,9 @@ const General = {
   ViewList,
   ViewListFilled,
   WarningFilled,
+  Filter,
+  SwapVertical,
+  Divider,
 };
 
 export default General;
