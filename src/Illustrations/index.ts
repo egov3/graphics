@@ -1,3 +1,4 @@
+import { EgovInfoIcon } from "./EgovInfoIcon";
 import { FaceId } from "./FaceId";
 import { InternetNotAvailable } from "./InternetNotAvailable";
 import { LanguageGraphics } from "./Language";
@@ -34,6 +35,7 @@ const Illustrations = {
   Verification,
   VerificationError,
   VerificationSuccess,
+  EgovInfoIcon,
 };
 
 export default Illustrations;
