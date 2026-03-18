@@ -83,7 +83,3 @@ import Icons from '@egov3/icons';
 5. Added GeneralStory
 6. Added LogoStory
 7. Added NavigationBarStory
-
-### 1.0.40
-1. Updated dependencies 
-2. Added storybook 
