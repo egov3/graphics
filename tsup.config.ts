@@ -12,9 +12,7 @@ const entries = Object.fromEntries(
       return [];
     }
 
-    const entryName = filePath
-      .replace(/^src\//, "")
-      .replace(/\.(ts|tsx)$/, "");
+    const entryName = filePath.replace(/^src\//, "").replace(/\.(ts|tsx)$/, "");
 
     return [[entryName, filePath]];
   }),
