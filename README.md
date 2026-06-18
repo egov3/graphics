@@ -41,7 +41,7 @@ yarn npm-check -u
 ```tsx
 import Icons from '@egov3/graphics';
 
-<Icons.Basic.СhevronUpSmallIcon fill="#758393" />
+<Icons.Basic.СhevronUpSmallIcon fill="#758393"/>
 ```
 
 #### Или указывать полный путь для уменьшения размера bundle
