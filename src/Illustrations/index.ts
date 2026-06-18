@@ -3,6 +3,7 @@ import { FaceIdIllustration } from "./FaceId";
 import { InternetNotAvailableIllustration } from "./InternetNotAvailable";
 import { LanguageGraphicsIllustration } from "./Language";
 import { NotificationsIllustration } from "./Notifications";
+import { QRIllustration } from "./QR";
 import { RegistrationSuccessIllustration } from "./RegistrationSuccess";
 import { ServerErrorIllustration } from "./ServerError";
 import { ServerTechnicalWorksIllustration } from "./ServerTechnicalWorks";
@@ -36,6 +37,7 @@ const Illustrations = {
   VerificationIllustration,
   VerificationErrorIllustration,
   VerificationSuccessIllustration,
+  QRIllustration,
 };
 
 export default Illustrations;
