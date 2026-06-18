@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const Brain = (props: React.SVGProps<SVGSVGElement>) => (
+export const BrainIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

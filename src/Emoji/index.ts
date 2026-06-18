@@ -1,15 +1,15 @@
-import { Angry } from "./Angry";
-import { Frowning } from "./Frowning";
-import { Grin } from "./Grin";
-import { Neutral } from "./Neutral";
-import { Smile } from "./Smile";
+import { AngryIcon } from "./Angry";
+import { FrowningIcon } from "./Frowning";
+import { GrinIcon } from "./Grin";
+import { NeutralIcon } from "./Neutral";
+import { SmileIcon } from "./Smile";
 
 const Emoji = {
-  Angry,
-  Frowning,
-  Grin,
-  Neutral,
-  Smile,
+  AngryIcon,
+  FrowningIcon,
+  GrinIcon,
+  NeutralIcon,
+  SmileIcon,
 };
 
 export default Emoji;

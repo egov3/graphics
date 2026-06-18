@@ -1,6 +1,8 @@
 import type React from "react";
 
-export const LanguageGraphics = (props: React.SVGProps<SVGSVGElement>) => (
+export const LanguageGraphicsIllustration = (
+  props: React.SVGProps<SVGSVGElement>,
+) => (
   <svg
     width="160"
     height="160"

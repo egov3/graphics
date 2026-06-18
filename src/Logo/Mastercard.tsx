@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const Mastercard = (props: React.SVGProps<SVGSVGElement>) => (
+export const MastercardIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="35"
     height="24"

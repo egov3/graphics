@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const ConfirmationNumberFilled = (
+export const ConfirmationNumberFilledIcon = (
   props: React.SVGProps<SVGSVGElement>,
 ) => (
   <svg

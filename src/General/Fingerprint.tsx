@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const Fingerprint = (props: React.SVGProps<SVGSVGElement>) => (
+export const FingerprintIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

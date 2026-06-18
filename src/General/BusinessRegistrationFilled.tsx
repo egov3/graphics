@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const BusinessRegistrationFilled = (
+export const BusinessRegistrationFilledIcon = (
   props: React.SVGProps<SVGSVGElement>,
 ) => (
   <svg

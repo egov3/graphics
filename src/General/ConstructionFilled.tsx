@@ -1,6 +1,8 @@
 import type React from "react";
 
-export const ConstructionFilled = (props: React.SVGProps<SVGSVGElement>) => (
+export const ConstructionFilledIcon = (
+  props: React.SVGProps<SVGSVGElement>,
+) => (
   <svg
     width="24"
     height="24"

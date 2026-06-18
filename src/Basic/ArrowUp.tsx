@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const ArrowUp = (props: React.SVGProps<SVGSVGElement>) => (
+export const ArrowUpIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

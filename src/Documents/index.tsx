@@ -1,27 +1,27 @@
-import { BachelorsDiploma } from "./BachelorsDiploma";
-import { Birth } from "./Birth";
-import { CarDocument } from "./CarDocument";
-import { CarInsurance } from "./CarInsurance";
-import { Driverlicense } from "./Driverlicense";
-import { Education } from "./Education";
-import { Marriage } from "./Marriage";
-import { MastersDiploma } from "./MastersDiploma";
-import { NationalFund } from "./NationalFund";
-import { Passport } from "./Passport";
-import { PersonalID } from "./PersonalID";
+import { BachelorsDiplomaIllustration } from "./BachelorsDiploma";
+import { BirthIllustration } from "./Birth";
+import { CarDocumentIllustration } from "./CarDocument";
+import { CarInsuranceIllustration } from "./CarInsurance";
+import { DriverlicenseIllustration } from "./Driverlicense";
+import { EducationIllustration } from "./Education";
+import { MarriageIllustration } from "./Marriage";
+import { MastersDiplomaIllustration } from "./MastersDiploma";
+import { NationalFundIllustration } from "./NationalFund";
+import { PassportIllustration } from "./Passport";
+import { PersonalIDIllustration } from "./PersonalID";
 
 const Documents = {
-  BachelorsDiploma,
-  Birth,
-  CarDocument,
-  CarInsurance,
-  Driverlicense,
-  Education,
-  Marriage,
-  MastersDiploma,
-  NationalFund,
-  Passport,
-  PersonalID,
+  BachelorsDiplomaIllustration,
+  BirthIllustration,
+  CarDocumentIllustration,
+  CarInsuranceIllustration,
+  DriverlicenseIllustration,
+  EducationIllustration,
+  MarriageIllustration,
+  MastersDiplomaIllustration,
+  NationalFundIllustration,
+  PassportIllustration,
+  PersonalIDIllustration,
 };
 
 export { Documents };

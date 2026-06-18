@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const Message = (props: React.SVGProps<SVGSVGElement>) => (
+export const MessageIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

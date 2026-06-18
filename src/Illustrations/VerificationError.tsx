@@ -1,6 +1,8 @@
 import type React from "react";
 
-export const VerificationError = (props: React.SVGProps<SVGSVGElement>) => (
+export const VerificationErrorIllustration = (
+  props: React.SVGProps<SVGSVGElement>,
+) => (
   <svg
     width="160"
     height="160"

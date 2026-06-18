@@ -1,4 +1,6 @@
-export const MastersDiploma = (props: React.SVGProps<SVGSVGElement>) => (
+export const MastersDiplomaWalletIllustration = (
+  props: React.SVGProps<SVGSVGElement>,
+) => (
   <svg
     width="109"
     height="84"

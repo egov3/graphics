@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const Notification = (props: React.SVGProps<SVGSVGElement>) => (
+export const NotificationIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

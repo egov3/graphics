@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const VeterinaryControlFilled = (
+export const VeterinaryControlFilledIcon = (
   props: React.SVGProps<SVGSVGElement>,
 ) => (
   <svg

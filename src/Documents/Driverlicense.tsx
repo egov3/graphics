@@ -1,4 +1,6 @@
-export const Driverlicense = (props: React.SVGProps<SVGSVGElement>) => (
+export const DriverlicenseIllustration = (
+  props: React.SVGProps<SVGSVGElement>,
+) => (
   <svg
     width="95"
     height="60"

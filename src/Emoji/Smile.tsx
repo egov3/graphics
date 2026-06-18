@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const Smile = (props: React.SVGProps<SVGSVGElement>) => (
+export const SmileIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

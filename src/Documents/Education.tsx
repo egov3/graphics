@@ -1,4 +1,4 @@
-export const Education = (props: React.SVGProps<SVGSVGElement>) => (
+export const EducationIllustration = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="95"
     height="61"

@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const ShareV2 = (props: React.SVGProps<SVGSVGElement>) => (
+export const ShareV2Icon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const FamilyFilled = (props: React.SVGProps<SVGSVGElement>) => (
+export const FamilyFilledIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

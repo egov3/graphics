@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const MedicineBriefcase = (props: React.SVGProps<SVGSVGElement>) => (
+export const MedicineBriefcaseIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

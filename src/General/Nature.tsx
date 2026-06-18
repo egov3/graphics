@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const Nature = (props: React.SVGProps<SVGSVGElement>) => (
+export const NatureIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

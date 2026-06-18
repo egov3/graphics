@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const Schedule = (props: React.SVGProps<SVGSVGElement>) => (
+export const ScheduleIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

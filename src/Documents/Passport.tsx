@@ -1,4 +1,4 @@
-export const Passport = (props: React.SVGProps<SVGSVGElement>) => (
+export const PassportIllustration = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="64"
     height="60"

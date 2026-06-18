@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const MedicineCertificationFilled = (
+export const MedicineCertificationFilledIcon = (
   props: React.SVGProps<SVGSVGElement>,
 ) => (
   <svg

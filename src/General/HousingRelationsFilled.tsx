@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const HousingRelationsFilled = (
+export const HousingRelationsFilledIcon = (
   props: React.SVGProps<SVGSVGElement>,
 ) => (
   <svg

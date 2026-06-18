@@ -1,6 +1,8 @@
 import type React from "react";
 
-export const LocationUserFilled = (props: React.SVGProps<SVGSVGElement>) => (
+export const LocationUserFilledIcon = (
+  props: React.SVGProps<SVGSVGElement>,
+) => (
   <svg
     width="24"
     height="24"

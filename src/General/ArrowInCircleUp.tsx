@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const ArrowInCircleUp = (props: React.SVGProps<SVGSVGElement>) => (
+export const ArrowInCircleUpIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

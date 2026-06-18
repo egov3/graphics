@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const SecondaryEducationFilled = (
+export const SecondaryEducationFilledIcon = (
   props: React.SVGProps<SVGSVGElement>,
 ) => (
   <svg

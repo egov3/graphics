@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const Allowances = (props: React.SVGProps<SVGSVGElement>) => (
+export const AllowancesIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

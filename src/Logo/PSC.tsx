@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const PSC = (props: React.SVGProps<SVGSVGElement>) => (
+export const PSCIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

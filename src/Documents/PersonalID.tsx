@@ -1,4 +1,6 @@
-export const PersonalID = (props: React.SVGProps<SVGSVGElement>) => (
+export const PersonalIDIllustration = (
+  props: React.SVGProps<SVGSVGElement>,
+) => (
   <svg
     width="95"
     height="61"
