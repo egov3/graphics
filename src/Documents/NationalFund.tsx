@@ -1,4 +1,6 @@
-export const NationalFund = (props: React.SVGProps<SVGSVGElement>) => (
+export const NationalFundIllustration = (
+  props: React.SVGProps<SVGSVGElement>,
+) => (
   <svg
     width="95"
     height="61"

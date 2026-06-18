@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const ELicense = (props: React.SVGProps<SVGSVGElement>) => (
+export const ELicenseIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

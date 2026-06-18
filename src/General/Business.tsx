@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const Business = (props: React.SVGProps<SVGSVGElement>) => (
+export const BusinessIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

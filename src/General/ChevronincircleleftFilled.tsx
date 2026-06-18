@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const ChevronincircleleftFilled = (
+export const ChevronincircleleftFilledIcon = (
   props: React.SVGProps<SVGSVGElement>,
 ) => (
   <svg

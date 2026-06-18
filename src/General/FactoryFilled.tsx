@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const FactoryFilled = (props: React.SVGProps<SVGSVGElement>) => (
+export const FactoryFilledIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

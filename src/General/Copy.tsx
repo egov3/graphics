@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const Copy = (props: React.SVGProps<SVGSVGElement>) => (
+export const CopyIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

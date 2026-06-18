@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const EPIR = (props: React.SVGProps<SVGSVGElement>) => (
+export const EPIRIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const BankFolderFilled = (props: React.SVGProps<SVGSVGElement>) => (
+export const BankFolderFilledIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

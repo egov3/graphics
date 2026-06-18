@@ -1,17 +1,17 @@
-import { AttachFileAdd } from "./AttachFileAdd";
-import { Refresh } from "./Refresh";
-import { SettingsFilled } from "./SettingsFilled";
-import { SettingsOutline } from "./SettingsOutline";
-import { Time } from "./Time";
-import { TimeFilled } from "./TimeFilled";
+import { AttachFileAddIcon } from "./AttachFileAdd";
+import { RefreshIcon } from "./Refresh";
+import { SettingsFilledIcon } from "./SettingsFilled";
+import { SettingsOutlineIcon } from "./SettingsOutline";
+import { TimeIcon } from "./Time";
+import { TimeFilledIcon } from "./TimeFilled";
 
 const Additional = {
-  AttachFileAdd,
-  Refresh,
-  SettingsOutline,
-  SettingsFilled,
-  Time,
-  TimeFilled,
+  AttachFileAddIcon,
+  RefreshIcon,
+  SettingsFilledIcon,
+  SettingsOutlineIcon,
+  TimeIcon,
+  TimeFilledIcon,
 };
 
 export default Additional;

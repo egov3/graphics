@@ -1,27 +1,27 @@
-import { BachelorsDiploma } from "./BachelorsDiploma";
-import { Birth } from "./Birth";
-import { CarDocument } from "./CarDocument";
-import { CarInsurance } from "./CarInsurance";
-import { Driverlicense } from "./Driverlicense";
-import { Education } from "./Education";
-import { Marriage } from "./Marriage";
-import { MastersDiploma } from "./MastersDiploma";
-import { NationalFund } from "./NationalFund";
-import { Passport } from "./Passport";
-import { PersonalID } from "./PersonalID";
+import { BachelorsDiplomaWalletIllustration } from "./BachelorsDiploma";
+import { BirthWalletIllustration } from "./Birth";
+import { CarDocumentWalletIllustration } from "./CarDocument";
+import { CarInsuranceWalletIllustration } from "./CarInsurance";
+import { DriverlicenseWalletIllustration } from "./Driverlicense";
+import { EducationWalletIllustration } from "./Education";
+import { MarriageWalletIllustration } from "./Marriage";
+import { MastersDiplomaWalletIllustration } from "./MastersDiploma";
+import { NationalFundWalletIllustration } from "./NationalFund";
+import { PassportWalletIllustration } from "./Passport";
+import { PersonalIDWalletIllustration } from "./PersonalID";
 
 const Wallet = {
-  BachelorsDiploma,
-  Birth,
-  CarDocument,
-  CarInsurance,
-  Driverlicense,
-  Education,
-  Marriage,
-  MastersDiploma,
-  NationalFund,
-  Passport,
-  PersonalID,
+  BachelorsDiplomaWalletIllustration,
+  BirthWalletIllustration,
+  CarDocumentWalletIllustration,
+  CarInsuranceWalletIllustration,
+  DriverlicenseWalletIllustration,
+  EducationWalletIllustration,
+  MarriageWalletIllustration,
+  MastersDiplomaWalletIllustration,
+  NationalFundWalletIllustration,
+  PassportWalletIllustration,
+  PersonalIDWalletIllustration,
 };
 
 export { Wallet };

@@ -1,4 +1,6 @@
-export const CarInsurance = (props: React.SVGProps<SVGSVGElement>) => (
+export const CarInsuranceIllustration = (
+  props: React.SVGProps<SVGSVGElement>,
+) => (
   <svg
     width="95"
     height="60"

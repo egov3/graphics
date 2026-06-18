@@ -1,643 +1,643 @@
-import { Accessibility } from "./Accessibility";
-import { Account } from "./Account";
-import { AccountFilled } from "./AccountFilled";
-import { Accreditation } from "./Accreditation";
-import { AccreditationFilled } from "./AccreditationFilled";
-import { Add } from "./Add";
-import { Agroculture } from "./Agroculture";
-import { AgrocultureFilled } from "./AgrocultureFilled";
-import { Airplane } from "./Airplane";
-import { AirplaneFilled } from "./AirplaneFilled";
-import { AlignLeft } from "./AlignLeft";
-import { AlignRight } from "./AlignRight";
-import { Allowances } from "./Allowances";
-import { AllowancesFilled } from "./AllowancesFilled";
-import { Apostille } from "./Apostille";
-import { ApostilleFilled } from "./ApostilleFilled";
-import { ApplePay } from "./ApplePay";
-import { Archive } from "./Archive";
-import { ArchiveFilled } from "./ArchiveFilled";
-import { ArrowInCircleDown } from "./ArrowInCircleDown";
-import { ArrowInCircleLeftFilled } from "./ArrowInCircleLeftFilled";
-import { ArrowInCircleUp } from "./ArrowInCircleUp";
-import { ArrowRedo } from "./ArrowRedo";
-import { Bag } from "./Bag";
-import { BagFilled } from "./BagFilled";
-import { BagSearch } from "./BagSearch";
-import { BagSearchFilled } from "./BagSearchFilled";
-import { Balance } from "./Balance";
-import { BalanceFilled } from "./BalanceFilled";
-import { BankFolder } from "./BankFolder";
-import { BankFolderFilled } from "./BankFolderFilled";
-import { Book } from "./Book";
-import { BookFilled } from "./BookFilled";
-import { Brain } from "./Brain";
-import { BrainFilled } from "./BrainFilled";
-import { Broadcasttv } from "./Broadcasttv";
-import { BroadcasttvFilled } from "./BroadcasttvFilled";
-import { BurgerMenu } from "./BurgerMenu";
-import { BusFront } from "./BusFront";
-import { BusFrontFilled } from "./BusFrontFilled";
-import { Business } from "./Business";
-import { BusinessFilled } from "./BusinessFilled";
-import { BusinessRegistration } from "./BusinessRegistration";
-import { BusinessRegistrationFilled } from "./BusinessRegistrationFilled";
-import { Calendar } from "./Calendar";
-import { CalendarFilled } from "./CalendarFilled";
-import { Call } from "./Call";
-import { Camera } from "./Camera";
-import { CameraFilled } from "./CameraFilled";
-import { Car } from "./Car";
-import { Card } from "./Card";
-import { CarFilled } from "./CarFilled";
-import { Chat } from "./Chat";
-import { ChatFilled } from "./ChatFilled";
-import { CheckboxEmpty } from "./CheckboxEmpty";
-import { CheckboxEmptyFilled } from "./CheckboxEmptyFilled";
-import { CheckedFilled } from "./CheckedFilled";
-import { CheckedRound } from "./CheckedRound";
-import { Chevronincircleleft } from "./Chevronincircleleft";
-import { ChevronincircleleftFilled } from "./ChevronincircleleftFilled";
-import { ChildFace } from "./ChildFace";
-import { ChildFaceFilled } from "./ChildFaceFilled";
-import { City } from "./City";
-import { CityFilled } from "./CityFilled";
-import { Clear } from "./Clear";
-import { ClearAlternative } from "./ClearAlternative";
-import { Close } from "./Close";
-import { College } from "./College";
-import { CollegeFilled } from "./CollegeFilled";
-import { ConfirmationNumber } from "./ConfirmationNumber";
-import { ConfirmationNumberFilled } from "./ConfirmationNumberFilled";
-import { Construction } from "./Construction";
-import { ConstructionFilled } from "./ConstructionFilled";
-import { Copy } from "./Copy";
-import { Copyright } from "./Copyright";
-import { Copyright1 } from "./Copyright1";
-import { CopyrightFilled } from "./CopyrightFilled";
-import { Court } from "./Court";
-import { CourtFilled } from "./CourtFilled";
-import { Cow } from "./Cow";
-import { Cow1 } from "./Cow1";
-import { CowFilled } from "./CowFilled";
-import { CowFilled1 } from "./CowFilled1";
-import { Customs } from "./Customs";
-import { CustomsFilled } from "./CustomsFilled";
-import { CustomsTaxes } from "./CustomsTaxes";
-import { CustomsTaxesFilled } from "./CustomsTaxesFilled";
-import { DebitCard } from "./DebitCard";
-import { DebitCardFilled } from "./DebitCardFilled";
-import { DigitalId } from "./DigitalId";
-import { DisabilitySupport } from "./DisabilitySupport";
-import { DisabilitySupportFilled } from "./DisabilitySupportFilled";
-import { Divider } from "./Divider";
-import { Doc } from "./Doc";
-import { DocFilled } from "./DocFilled";
-import { DocumentDiagram } from "./DocumentDiagram";
-import { DocumentDiagramFilled } from "./DocumentDiagramFilled";
-import { DocumentTable } from "./DocumentTable";
-import { DocumentTableFilled } from "./DocumentTableFilled";
-import { DragIndicator } from "./DragIndicator";
-import { DriverLicense } from "./DriverLicense";
-import { DriverPassport } from "./DriverPassport";
-import { Earth } from "./Earth";
-import { EarthFilled } from "./EarthFilled";
-import { Edit } from "./Edit";
-import { EditFilled } from "./EditFilled";
-import { EditNote } from "./EditNote";
-import { Education } from "./Education";
-import { EducationFilled } from "./EducationFilled";
-import { Emergency } from "./Emergency";
-import { EmergencyFilled } from "./EmergencyFilled";
-import { Employment } from "./Employment";
-import { EmploymentFilled } from "./EmploymentFilled";
+import { AccessibilityIcon } from "./Accessibility";
+import { AccountIcon } from "./Account";
+import { AccountFilledIcon } from "./AccountFilled";
+import { AccreditationIcon } from "./Accreditation";
+import { AccreditationFilledIcon } from "./AccreditationFilled";
+import { AddIcon } from "./Add";
+import { AgrocultureIcon } from "./Agroculture";
+import { AgrocultureFilledIcon } from "./AgrocultureFilled";
+import { AirplaneIcon } from "./Airplane";
+import { AirplaneFilledIcon } from "./AirplaneFilled";
+import { AlignLeftIcon } from "./AlignLeft";
+import { AlignRightIcon } from "./AlignRight";
+import { AllowancesIcon } from "./Allowances";
+import { AllowancesFilledIcon } from "./AllowancesFilled";
+import { ApostilleIcon } from "./Apostille";
+import { ApostilleFilledIcon } from "./ApostilleFilled";
+import { ApplePayIcon } from "./ApplePay";
+import { ArchiveIcon } from "./Archive";
+import { ArchiveFilledIcon } from "./ArchiveFilled";
+import { ArrowInCircleDownIcon } from "./ArrowInCircleDown";
+import { ArrowInCircleLeftFilledIcon } from "./ArrowInCircleLeftFilled";
+import { ArrowInCircleUpIcon } from "./ArrowInCircleUp";
+import { ArrowRedoIcon } from "./ArrowRedo";
+import { BagIcon } from "./Bag";
+import { BagFilledIcon } from "./BagFilled";
+import { BagSearchIcon } from "./BagSearch";
+import { BagSearchFilledIcon } from "./BagSearchFilled";
+import { BalanceIcon } from "./Balance";
+import { BalanceFilledIcon } from "./BalanceFilled";
+import { BankFolderIcon } from "./BankFolder";
+import { BankFolderFilledIcon } from "./BankFolderFilled";
+import { BookIcon } from "./Book";
+import { BookFilledIcon } from "./BookFilled";
+import { BrainIcon } from "./Brain";
+import { BrainFilledIcon } from "./BrainFilled";
+import { BroadcasttvIcon } from "./Broadcasttv";
+import { BroadcasttvFilledIcon } from "./BroadcasttvFilled";
+import { BurgerMenuIcon } from "./BurgerMenu";
+import { BusFrontIcon } from "./BusFront";
+import { BusFrontFilledIcon } from "./BusFrontFilled";
+import { BusinessIcon } from "./Business";
+import { BusinessFilledIcon } from "./BusinessFilled";
+import { BusinessRegistrationIcon } from "./BusinessRegistration";
+import { BusinessRegistrationFilledIcon } from "./BusinessRegistrationFilled";
+import { CalendarIcon } from "./Calendar";
+import { CalendarFilledIcon } from "./CalendarFilled";
+import { CallIcon } from "./Call";
+import { CameraIcon } from "./Camera";
+import { CameraFilledIcon } from "./CameraFilled";
+import { CarIcon } from "./Car";
+import { CardIcon } from "./Card";
+import { CarFilledIcon } from "./CarFilled";
+import { ChatIcon } from "./Chat";
+import { ChatFilledIcon } from "./ChatFilled";
+import { CheckboxEmptyIcon } from "./CheckboxEmpty";
+import { CheckboxEmptyFilledIcon } from "./CheckboxEmptyFilled";
+import { CheckedFilledIcon } from "./CheckedFilled";
+import { CheckedRoundIcon } from "./CheckedRound";
+import { ChevronincircleleftIcon } from "./Chevronincircleleft";
+import { ChevronincircleleftFilledIcon } from "./ChevronincircleleftFilled";
+import { ChildFaceIcon } from "./ChildFace";
+import { ChildFaceFilledIcon } from "./ChildFaceFilled";
+import { CityIcon } from "./City";
+import { CityFilledIcon } from "./CityFilled";
+import { ClearIcon } from "./Clear";
+import { ClearAlternativeIcon } from "./ClearAlternative";
+import { CloseIcon } from "./Close";
+import { CollegeIcon } from "./College";
+import { CollegeFilledIcon } from "./CollegeFilled";
+import { ConfirmationNumberIcon } from "./ConfirmationNumber";
+import { ConfirmationNumberFilledIcon } from "./ConfirmationNumberFilled";
+import { ConstructionIcon } from "./Construction";
+import { ConstructionFilledIcon } from "./ConstructionFilled";
+import { CopyIcon } from "./Copy";
+import { CopyrightIcon } from "./Copyright";
+import { Copyright1Icon } from "./Copyright1";
+import { CopyrightFilledIcon } from "./CopyrightFilled";
+import { CourtIcon } from "./Court";
+import { CourtFilledIcon } from "./CourtFilled";
+import { CowIcon } from "./Cow";
+import { Cow1Icon } from "./Cow1";
+import { CowFilledIcon } from "./CowFilled";
+import { CowFilled1Icon } from "./CowFilled1";
+import { CustomsIcon } from "./Customs";
+import { CustomsFilledIcon } from "./CustomsFilled";
+import { CustomsTaxesIcon } from "./CustomsTaxes";
+import { CustomsTaxesFilledIcon } from "./CustomsTaxesFilled";
+import { DebitCardIcon } from "./DebitCard";
+import { DebitCardFilledIcon } from "./DebitCardFilled";
+import { DigitalIdIcon } from "./DigitalId";
+import { DisabilitySupportIcon } from "./DisabilitySupport";
+import { DisabilitySupportFilledIcon } from "./DisabilitySupportFilled";
+import { DividerIcon } from "./Divider";
+import { DocIcon } from "./Doc";
+import { DocFilledIcon } from "./DocFilled";
+import { DocumentDiagramIcon } from "./DocumentDiagram";
+import { DocumentDiagramFilledIcon } from "./DocumentDiagramFilled";
+import { DocumentTableIcon } from "./DocumentTable";
+import { DocumentTableFilledIcon } from "./DocumentTableFilled";
+import { DragIndicatorIcon } from "./DragIndicator";
+import { DriverLicenseIcon } from "./DriverLicense";
+import { DriverPassportIcon } from "./DriverPassport";
+import { EarthIcon } from "./Earth";
+import { EarthFilledIcon } from "./EarthFilled";
+import { EditIcon } from "./Edit";
+import { EditFilledIcon } from "./EditFilled";
+import { EditNoteIcon } from "./EditNote";
+import { EducationIcon } from "./Education";
+import { EducationFilledIcon } from "./EducationFilled";
+import { EmergencyIcon } from "./Emergency";
+import { EmergencyFilledIcon } from "./EmergencyFilled";
+import { EmploymentIcon } from "./Employment";
+import { EmploymentFilledIcon } from "./EmploymentFilled";
 import { ErrorIcon } from "./Error";
-import { Factory } from "./Factory";
-import { FactoryFilled } from "./FactoryFilled";
-import { Family } from "./Family";
-import { FamilyFilled } from "./FamilyFilled";
-import { FamilyHelp } from "./FamilyHelp";
-import { FamilyHelpFilled } from "./FamilyHelpFilled";
-import { Filter } from "./Filter";
-import { Finance } from "./Finance";
-import { FinanceFilled } from "./FinanceFilled";
-import { FinanceIncome } from "./FinanceIncome";
-import { FinanceIncomeFilled } from "./FinanceIncomeFilled";
-import { Fingerprint } from "./Fingerprint";
-import { Flag } from "./Flag";
-import { FlagFilled } from "./FlagFilled";
-import { FolderOpened } from "./FolderOpened";
-import { FolderOpenedFilled } from "./FolderOpenedFilled";
-import { Foreigner } from "./Foreigner";
-import { ForeignerFilled } from "./ForeignerFilled";
-import { Forest } from "./Forest";
-import { ForestFilled } from "./ForestFilled";
-import { GoingAbroad } from "./GoingAbroad";
-import { GoingAbroadFilled } from "./GoingAbroadFilled";
-import { GuardianshipChild } from "./GuardianshipChild";
-import { GuardianshipChildFilled } from "./GuardianshipChildFilled";
-import { Hand } from "./Hand";
-import { HandFilled } from "./HandFilled";
-import { Handshake } from "./Handshake";
-import { HandshakeFilled } from "./HandshakeFilled";
-import { Health } from "./Health";
-import { Heart } from "./Heart";
-import { HeartFilled } from "./HeartFilled";
-import { Help } from "./Help";
-import { HelpCenterArticle } from "./HelpCenterArticle";
-import { HelpCenterArticleFilled } from "./HelpCenterArticleFilled";
-import { Hourglass } from "./Hourglass";
-import { HousingRelations } from "./HousingRelations";
-import { HousingRelationsFilled } from "./HousingRelationsFilled";
-import { HousServices } from "./HousServices";
-import { HousServicesFilled } from "./HousServicesFilled";
-import { InfoFilled } from "./InfoFilled";
-import { InfoStroke } from "./InfoStroke";
-import { Instructions } from "./Instructions";
-import { InstructionsFilled } from "./InstructionsFilled";
-import { Internet } from "./Internet";
-import { Job } from "./Job";
-import { JobFilled } from "./JobFilled";
-import { Key } from "./Key";
-import { KeyFilled } from "./KeyFilled";
-import { Language } from "./Language";
-import { Law } from "./Law";
-import { LawFilled } from "./LawFilled";
-import { Leaf } from "./Leaf";
-import { LeafFilled } from "./LeafFilled";
-import { LibraryAdd } from "./LibraryAdd";
-import { LibraryAddFilled } from "./LibraryAddFilled";
-import { License } from "./License";
-import { LicenseFilled } from "./LicenseFilled";
-import { Licenses } from "./Licenses";
-import { LicensesFilled } from "./LicensesFilled";
-import { Like } from "./Like";
-import { ListMenu } from "./ListMenu";
-import { ListSquare } from "./ListSquare";
-import { Loader } from "./Loader";
-import { Loan } from "./Loan";
-import { LoanFilled } from "./LoanFilled";
-import { LocationUser } from "./LocationUser";
-import { LocationUserFilled } from "./LocationUserFilled";
-import { Lock } from "./Lock";
-import { Logout } from "./Logout";
-import { Medicine } from "./Medicine";
-import { MedicineBriefcase } from "./MedicineBriefcase";
-import { MedicineBriefcaseFilled } from "./MedicineBriefcaseFilled";
-import { MedicineCertification } from "./MedicineCertification";
-import { MedicineCertificationFilled } from "./MedicineCertificationFilled";
-import { MedicineFilled } from "./MedicineFilled";
-import { MedicineHelp } from "./MedicineHelp";
-import { MedicineHelpFilled } from "./MedicineHelpFilled";
-import { Message } from "./Message";
-import { MessageListFilled } from "./MessageListFilled";
-import { MessageListOutline } from "./MessageListOutline";
-import { MessagesCheck } from "./MessagesCheck";
-import { Microphone } from "./Microphone";
-import { MicrophoneFilled } from "./MicrophoneFilled";
-import { MilitaryService } from "./MilitaryService";
-import { MilitaryServiceFilled } from "./MilitaryServiceFilled";
-import { Mining } from "./Mining";
-import { MiningFilled } from "./MiningFilled";
-import { Money } from "./Money";
-import { MoneyFilled } from "./MoneyFilled";
-import { More } from "./More";
-import { MoreRoundFilled } from "./MoreRoundFilled";
-import { MyDocument } from "./MyDocument";
-import { MyDocumentFilled } from "./MyDocumentFilled";
-import { Nature } from "./Nature";
-import { NatureFilled } from "./NatureFilled";
-import { News } from "./News";
-import { NewsFilled } from "./NewsFilled";
-import { Notification } from "./Notification";
-import { NotificationFilled } from "./NotificationFilled";
-import { OnlineRegistry } from "./OnlineRegistry";
-import { OnlineRegistryFilled } from "./OnlineRegistryFilled";
-import { OpenInNew } from "./OpenInNew";
-import { PaperClip } from "./PaperClip";
-import { Passport } from "./Passport";
-import { Pension } from "./Pension";
-import { PensionFilled } from "./PensionFilled";
-import { Permits } from "./Permits";
-import { PermitsFilled } from "./PermitsFilled";
-import { PersonalData } from "./PersonalData";
-import { PersonalDataFilled } from "./PersonalDataFilled";
-import { PersonalId } from "./PersonalId";
-import { PersonalIdFilled } from "./PersonalIdFilled";
-import { Pharmacy } from "./Pharmacy";
-import { PharmacyFilled } from "./PharmacyFilled";
-import { Phone } from "./Phone";
-import { PieChart } from "./PieChart";
-import { PieChartFilled } from "./PieChartFilled";
-import { Pin } from "./Pin";
-import { PinFilled } from "./PinFilled";
-import { Printer } from "./Printer";
-import { PrinteFilled } from "./PrinterFilled";
-import { PublicOrder } from "./PublicOrder";
-import { PublicOrderFilled } from "./PublicOrderFilled";
-import { Push } from "./Push";
-import { QrCodeFilled } from "./QrCodeFilled";
-import { QrCodeOutline } from "./QrCodeOutline";
-import { QrCodeScan } from "./QrCodeScan";
-import { RadioButton } from "./RadioButton";
-import { RadioButtonChecked } from "./RadioButtonChecked";
-import { RealEstate } from "./RealEstate";
-import { RealEstateFilled } from "./RealEstateFilled";
-import { Recycling } from "./Recycling";
-import { Reduce } from "./Reduce";
-import { Registry } from "./Registry";
-import { RegistryFilled } from "./RegistryFilled";
-import { Regulation } from "./Regulation";
-import { RegulationFilled } from "./RegulationFilled";
-import { Request } from "./Request";
-import { Reservation } from "./Reservation";
-import { ReservationFilled } from "./ReservationFilled";
-import { Resources } from "./Resources";
-import { ResourcesFilled } from "./ResourcesFilled";
-import { Resume } from "./Resume";
-import { ResumeFilled } from "./ResumeFilled";
-import { RingsFamily } from "./RingsFamily";
-import { Schedule } from "./Schedule";
-import { ScheduleFilled } from "./ScheduleFilled";
-import { Science } from "./Science";
-import { ScienceFilled } from "./ScienceFilled";
-import { Search } from "./Search";
-import { SecondaryEducation } from "./SecondaryEducation";
-import { SecondaryEducationFilled } from "./SecondaryEducationFilled";
-import { ServicesFilled } from "./ServicesFilled";
-import { ServicesOutline } from "./ServicesOutline";
-import { ShareV1 } from "./ShareV1";
-import { ShareV2 } from "./ShareV2";
-import { Shield } from "./Shield";
-import { ShieldFailed } from "./ShieldFailed";
-import { ShieldFilled } from "./ShieldFilled";
-import { ShieldSuccess } from "./ShieldSuccess";
-import { ShieldSuccessFilled } from "./ShieldSuccessFilled";
-import { ShieldWarninng } from "./ShieldWarninng";
-import { Ship } from "./Ship";
-import { ShipFilled } from "./ShipFilled";
-import { SmileFace } from "./SmileFace";
-import { SocialRegistry } from "./SocialRegistry";
-import { SocialRegistry1 } from "./SocialRegistry1";
-import { SoftwareRegistry } from "./SoftwareRegistry";
-import { SoftwareRegistryFilled } from "./SoftwareRegistryFilled";
-import { Sport } from "./Sport";
-import { SportFilled } from "./SportFilled";
-import { Sputnik } from "./Sputnik";
-import { SputnikFilled } from "./SputnikFilled";
-import { Star } from "./Star";
-import { StarFilled } from "./StarFilled";
-import { State } from "./State";
-import { StateFilled } from "./StateFilled";
-import { SwapVertical } from "./SwapVertical";
-import { Theaters } from "./Theaters";
-import { TheatersFilled } from "./TheatersFilled";
-import { Ticket } from "./Ticket";
-import { TicketFilled } from "./TicketFilled";
-import { Tourism } from "./Tourism";
-import { TourismFilled } from "./TourismFilled";
-import { Toys } from "./Toys";
-import { ToysFilled } from "./ToysFilled";
-import { Train } from "./Train";
-import { TrainFilled } from "./TrainFilled";
-import { Trash } from "./Trash";
-import { TrashFilled } from "./TrashFilled";
-import { TreeFruits } from "./TreeFruits";
-import { TreeFruitsFilled } from "./TreeFruitsFilled";
-import { Truck } from "./Truck";
-import { TruckFilled } from "./TruckFilled";
-import { University } from "./University";
-import { UniversityFilled } from "./UniversityFilled";
-import { Unlock } from "./Unlock";
-import { Update } from "./Update";
-import { VeterinaryControl } from "./VeterinaryControl";
-import { VeterinaryControlFilled } from "./VeterinaryControlFilled";
-import { ViewGrid } from "./ViewGrid";
-import { ViewGridFilled } from "./ViewGridFilled";
-import { ViewList } from "./ViewList";
-import { ViewListFilled } from "./ViewListFilled";
-import { WarningFilled } from "./WarningFilled";
+import { FactoryIcon } from "./Factory";
+import { FactoryFilledIcon } from "./FactoryFilled";
+import { FamilyIcon } from "./Family";
+import { FamilyFilledIcon } from "./FamilyFilled";
+import { FamilyHelpIcon } from "./FamilyHelp";
+import { FamilyHelpFilledIcon } from "./FamilyHelpFilled";
+import { FilterIcon } from "./Filter";
+import { FinanceIcon } from "./Finance";
+import { FinanceFilledIcon } from "./FinanceFilled";
+import { FinanceIncomeIcon } from "./FinanceIncome";
+import { FinanceIncomeFilledIcon } from "./FinanceIncomeFilled";
+import { FingerprintIcon } from "./Fingerprint";
+import { FlagIcon } from "./Flag";
+import { FlagFilledIcon } from "./FlagFilled";
+import { FolderOpenedIcon } from "./FolderOpened";
+import { FolderOpenedFilledIcon } from "./FolderOpenedFilled";
+import { ForeignerIcon } from "./Foreigner";
+import { ForeignerFilledIcon } from "./ForeignerFilled";
+import { ForestIcon } from "./Forest";
+import { ForestFilledIcon } from "./ForestFilled";
+import { GoingAbroadIcon } from "./GoingAbroad";
+import { GoingAbroadFilledIcon } from "./GoingAbroadFilled";
+import { GuardianshipChildIcon } from "./GuardianshipChild";
+import { GuardianshipChildFilledIcon } from "./GuardianshipChildFilled";
+import { HandIcon } from "./Hand";
+import { HandFilledIcon } from "./HandFilled";
+import { HandshakeIcon } from "./Handshake";
+import { HandshakeFilledIcon } from "./HandshakeFilled";
+import { HealthIcon } from "./Health";
+import { HeartIcon } from "./Heart";
+import { HeartFilledIcon } from "./HeartFilled";
+import { HelpIcon } from "./Help";
+import { HelpCenterArticleIcon } from "./HelpCenterArticle";
+import { HelpCenterArticleFilledIcon } from "./HelpCenterArticleFilled";
+import { HourglassIcon } from "./Hourglass";
+import { HousingRelationsIcon } from "./HousingRelations";
+import { HousingRelationsFilledIcon } from "./HousingRelationsFilled";
+import { HousServicesIcon } from "./HousServices";
+import { HousServicesFilledIcon } from "./HousServicesFilled";
+import { InfoFilledIcon } from "./InfoFilled";
+import { InfoStrokeIcon } from "./InfoStroke";
+import { InstructionsIcon } from "./Instructions";
+import { InstructionsFilledIcon } from "./InstructionsFilled";
+import { InternetIcon } from "./Internet";
+import { JobIcon } from "./Job";
+import { JobFilledIcon } from "./JobFilled";
+import { KeyIcon } from "./Key";
+import { KeyFilledIcon } from "./KeyFilled";
+import { LanguageIcon } from "./Language";
+import { LawIcon } from "./Law";
+import { LawFilledIcon } from "./LawFilled";
+import { LeafIcon } from "./Leaf";
+import { LeafFilledIcon } from "./LeafFilled";
+import { LibraryAddIcon } from "./LibraryAdd";
+import { LibraryAddFilledIcon } from "./LibraryAddFilled";
+import { LicenseIcon } from "./License";
+import { LicenseFilledIcon } from "./LicenseFilled";
+import { LicensesIcon } from "./Licenses";
+import { LicensesFilledIcon } from "./LicensesFilled";
+import { LikeIcon } from "./Like";
+import { ListMenuIcon } from "./ListMenu";
+import { ListSquareIcon } from "./ListSquare";
+import { LoaderIcon } from "./Loader";
+import { LoanIcon } from "./Loan";
+import { LoanFilledIcon } from "./LoanFilled";
+import { LocationUserIcon } from "./LocationUser";
+import { LocationUserFilledIcon } from "./LocationUserFilled";
+import { LockIcon } from "./Lock";
+import { LogoutIcon } from "./Logout";
+import { MedicineIcon } from "./Medicine";
+import { MedicineBriefcaseIcon } from "./MedicineBriefcase";
+import { MedicineBriefcaseFilledIcon } from "./MedicineBriefcaseFilled";
+import { MedicineCertificationIcon } from "./MedicineCertification";
+import { MedicineCertificationFilledIcon } from "./MedicineCertificationFilled";
+import { MedicineFilledIcon } from "./MedicineFilled";
+import { MedicineHelpIcon } from "./MedicineHelp";
+import { MedicineHelpFilledIcon } from "./MedicineHelpFilled";
+import { MessageIcon } from "./Message";
+import { MessageListFilledIcon } from "./MessageListFilled";
+import { MessageListOutlineIcon } from "./MessageListOutline";
+import { MessagesCheckIcon } from "./MessagesCheck";
+import { MicrophoneIcon } from "./Microphone";
+import { MicrophoneFilledIcon } from "./MicrophoneFilled";
+import { MilitaryServiceIcon } from "./MilitaryService";
+import { MilitaryServiceFilledIcon } from "./MilitaryServiceFilled";
+import { MiningIcon } from "./Mining";
+import { MiningFilledIcon } from "./MiningFilled";
+import { MoneyIcon } from "./Money";
+import { MoneyFilledIcon } from "./MoneyFilled";
+import { MoreIcon } from "./More";
+import { MoreRoundFilledIcon } from "./MoreRoundFilled";
+import { MyDocumentIcon } from "./MyDocument";
+import { MyDocumentFilledIcon } from "./MyDocumentFilled";
+import { NatureIcon } from "./Nature";
+import { NatureFilledIcon } from "./NatureFilled";
+import { NewsIcon } from "./News";
+import { NewsFilledIcon } from "./NewsFilled";
+import { NotificationIcon } from "./Notification";
+import { NotificationFilledIcon } from "./NotificationFilled";
+import { OnlineRegistryIcon } from "./OnlineRegistry";
+import { OnlineRegistryFilledIcon } from "./OnlineRegistryFilled";
+import { OpenInNewIcon } from "./OpenInNew";
+import { PaperClipIcon } from "./PaperClip";
+import { PassportIcon } from "./Passport";
+import { PensionIcon } from "./Pension";
+import { PensionFilledIcon } from "./PensionFilled";
+import { PermitsIcon } from "./Permits";
+import { PermitsFilledIcon } from "./PermitsFilled";
+import { PersonalDataIcon } from "./PersonalData";
+import { PersonalDataFilledIcon } from "./PersonalDataFilled";
+import { PersonalIdIcon } from "./PersonalId";
+import { PersonalIdFilledIcon } from "./PersonalIdFilled";
+import { PharmacyIcon } from "./Pharmacy";
+import { PharmacyFilledIcon } from "./PharmacyFilled";
+import { PhoneIcon } from "./Phone";
+import { PieChartIcon } from "./PieChart";
+import { PieChartFilledIcon } from "./PieChartFilled";
+import { PinIcon } from "./Pin";
+import { PinFilledIcon } from "./PinFilled";
+import { PrinterIcon } from "./Printer";
+import { PrinterFilledIcon } from "./PrinterFilled";
+import { PublicOrderIcon } from "./PublicOrder";
+import { PublicOrderFilledIcon } from "./PublicOrderFilled";
+import { PushIcon } from "./Push";
+import { QrCodeFilledIcon } from "./QrCodeFilled";
+import { QrCodeOutlineIcon } from "./QrCodeOutline";
+import { QrCodeScanIcon } from "./QrCodeScan";
+import { RadioButtonIcon } from "./RadioButton";
+import { RadioButtonCheckedIcon } from "./RadioButtonChecked";
+import { RealEstateIcon } from "./RealEstate";
+import { RealEstateFilledIcon } from "./RealEstateFilled";
+import { RecyclingIcon } from "./Recycling";
+import { ReduceIcon } from "./Reduce";
+import { RegistryIcon } from "./Registry";
+import { RegistryFilledIcon } from "./RegistryFilled";
+import { RegulationIcon } from "./Regulation";
+import { RegulationFilledIcon } from "./RegulationFilled";
+import { RequestIcon } from "./Request";
+import { ReservationIcon } from "./Reservation";
+import { ReservationFilledIcon } from "./ReservationFilled";
+import { ResourcesIcon } from "./Resources";
+import { ResourcesFilledIcon } from "./ResourcesFilled";
+import { ResumeIcon } from "./Resume";
+import { ResumeFilledIcon } from "./ResumeFilled";
+import { RingsFamilyIcon } from "./RingsFamily";
+import { ScheduleIcon } from "./Schedule";
+import { ScheduleFilledIcon } from "./ScheduleFilled";
+import { ScienceIcon } from "./Science";
+import { ScienceFilledIcon } from "./ScienceFilled";
+import { SearchIcon } from "./Search";
+import { SecondaryEducationIcon } from "./SecondaryEducation";
+import { SecondaryEducationFilledIcon } from "./SecondaryEducationFilled";
+import { ServicesFilledIcon } from "./ServicesFilled";
+import { ServicesOutlineIcon } from "./ServicesOutline";
+import { ShareV1Icon } from "./ShareV1";
+import { ShareV2Icon } from "./ShareV2";
+import { ShieldIcon } from "./Shield";
+import { ShieldFailedIcon } from "./ShieldFailed";
+import { ShieldFilledIcon } from "./ShieldFilled";
+import { ShieldSuccessIcon } from "./ShieldSuccess";
+import { ShieldSuccessFilledIcon } from "./ShieldSuccessFilled";
+import { ShieldWarninngIcon } from "./ShieldWarninng";
+import { ShipIcon } from "./Ship";
+import { ShipFilledIcon } from "./ShipFilled";
+import { SmileFaceIcon } from "./SmileFace";
+import { SocialRegistryIcon } from "./SocialRegistry";
+import { SocialRegistry1Icon } from "./SocialRegistry1";
+import { SoftwareRegistryIcon } from "./SoftwareRegistry";
+import { SoftwareRegistryFilledIcon } from "./SoftwareRegistryFilled";
+import { SportIcon } from "./Sport";
+import { SportFilledIcon } from "./SportFilled";
+import { SputnikIcon } from "./Sputnik";
+import { SputnikFilledIcon } from "./SputnikFilled";
+import { StarIcon } from "./Star";
+import { StarFilledIcon } from "./StarFilled";
+import { StateIcon } from "./State";
+import { StateFilledIcon } from "./StateFilled";
+import { SwapVerticalIcon } from "./SwapVertical";
+import { TheatersIcon } from "./Theaters";
+import { TheatersFilledIcon } from "./TheatersFilled";
+import { TicketIcon } from "./Ticket";
+import { TicketFilledIcon } from "./TicketFilled";
+import { TourismIcon } from "./Tourism";
+import { TourismFilledIcon } from "./TourismFilled";
+import { ToysIcon } from "./Toys";
+import { ToysFilledIcon } from "./ToysFilled";
+import { TrainIcon } from "./Train";
+import { TrainFilledIcon } from "./TrainFilled";
+import { TrashIcon } from "./Trash";
+import { TrashFilledIcon } from "./TrashFilled";
+import { TreeFruitsIcon } from "./TreeFruits";
+import { TreeFruitsFilledIcon } from "./TreeFruitsFilled";
+import { TruckIcon } from "./Truck";
+import { TruckFilledIcon } from "./TruckFilled";
+import { UniversityIcon } from "./University";
+import { UniversityFilledIcon } from "./UniversityFilled";
+import { UnlockIcon } from "./Unlock";
+import { UpdateIcon } from "./Update";
+import { VeterinaryControlIcon } from "./VeterinaryControl";
+import { VeterinaryControlFilledIcon } from "./VeterinaryControlFilled";
+import { ViewGridIcon } from "./ViewGrid";
+import { ViewGridFilledIcon } from "./ViewGridFilled";
+import { ViewListIcon } from "./ViewList";
+import { ViewListFilledIcon } from "./ViewListFilled";
+import { WarningFilledIcon } from "./WarningFilled";
 
 const General = {
-  Accessibility,
-  Account,
-  AccountFilled,
-  Accreditation,
-  AccreditationFilled,
-  Add,
-  Agroculture,
-  AgrocultureFilled,
-  Airplane,
-  AirplaneFilled,
-  Allowances,
-  AllowancesFilled,
-  AlignLeft,
-  AlignRight,
-  ApplePay,
-  Apostille,
-  ApostilleFilled,
-  Archive,
-  ArchiveFilled,
-  ArrowInCircleDown,
-  ArrowInCircleLeftFilled,
-  ArrowInCircleUp,
-  ArrowRedo,
-  Bag,
-  BagFilled,
-  BagSearch,
-  BagSearchFilled,
-  Balance,
-  BalanceFilled,
-  BankFolder,
-  BankFolderFilled,
-  Book,
-  BookFilled,
-  Brain,
-  BrainFilled,
-  Broadcasttv,
-  BroadcasttvFilled,
-  BurgerMenu,
-  BusFront,
-  BusFrontFilled,
-  Business,
-  BusinessFilled,
-  BusinessRegistration,
-  BusinessRegistrationFilled,
-  Calendar,
-  CalendarFilled,
-  Call,
-  Camera,
-  CameraFilled,
-  Car,
-  CarFilled,
-  Card,
-  Chat,
-  ChatFilled,
-  CheckboxEmpty,
-  CheckboxEmptyFilled,
-  CheckedFilled,
-  CheckedRound,
-  Chevronincircleleft,
-  ChevronincircleleftFilled,
-  ChildFace,
-  ChildFaceFilled,
-  City,
-  CityFilled,
-  Clear,
-  ClearAlternative,
-  Close,
-  College,
-  CollegeFilled,
-  ConfirmationNumber,
-  ConfirmationNumberFilled,
-  Construction,
-  ConstructionFilled,
-  Copy,
-  Copyright,
-  Copyright1,
-  CopyrightFilled,
-  Court,
-  CourtFilled,
-  Cow,
-  Cow1,
-  CowFilled,
-  CowFilled1,
-  Customs,
-  CustomsFilled,
-  CustomsTaxes,
-  CustomsTaxesFilled,
-  DebitCard,
-  DebitCardFilled,
-  DigitalId,
-  DisabilitySupport,
-  DisabilitySupportFilled,
-  Doc,
-  DocFilled,
-  DocumentDiagram,
-  DocumentDiagramFilled,
-  DocumentTable,
-  DocumentTableFilled,
-  DragIndicator,
-  DriverLicense,
-  DriverPassport,
-  Earth,
-  EarthFilled,
-  Edit,
-  EditFilled,
-  EditNote,
-  Education,
-  EducationFilled,
-  Emergency,
-  EmergencyFilled,
-  Employment,
-  EmploymentFilled,
-  Error: ErrorIcon,
-  Factory,
-  FactoryFilled,
-  Family,
-  FamilyFilled,
-  FamilyHelp,
-  FamilyHelpFilled,
-  Finance,
-  FinanceFilled,
-  FinanceIncome,
-  FinanceIncomeFilled,
-  Fingerprint,
-  Flag,
-  FlagFilled,
-  FolderOpened,
-  FolderOpenedFilled,
-  Foreigner,
-  ForeignerFilled,
-  Forest,
-  ForestFilled,
-  GoingAbroad,
-  GoingAbroadFilled,
-  GuardianshipChild,
-  GuardianshipChildFilled,
-  Hand,
-  HandFilled,
-  Handshake,
-  HandshakeFilled,
-  Health,
-  Heart,
-  HeartFilled,
-  Help,
-  HelpCenterArticle,
-  HelpCenterArticleFilled,
-  Hourglass,
-  HousingRelations,
-  HousingRelationsFilled,
-  HousServices,
-  HousServicesFilled,
-  InfoFilled,
-  InfoStroke,
-  Instructions,
-  InstructionsFilled,
-  Internet,
-  Job,
-  JobFilled,
-  Key,
-  KeyFilled,
-  Language,
-  Law,
-  LawFilled,
-  Leaf,
-  LeafFilled,
-  LibraryAdd,
-  LibraryAddFilled,
-  License,
-  LicenseFilled,
-  Licenses,
-  LicensesFilled,
-  Like,
-  ListMenu,
-  ListSquare,
-  Loader,
-  Loan,
-  LoanFilled,
-  LocationUser,
-  LocationUserFilled,
-  Lock,
-  Logout,
-  Medicine,
-  MedicineBriefcase,
-  MedicineBriefcaseFilled,
-  MedicineCertification,
-  MedicineCertificationFilled,
-  MedicineFilled,
-  MedicineHelp,
-  MedicineHelpFilled,
-  Message,
-  MessageListFilled,
-  MessageListOutline,
-  MessagesCheck,
-  Microphone,
-  MicrophoneFilled,
-  MilitaryService,
-  MilitaryServiceFilled,
-  Mining,
-  MiningFilled,
-  Money,
-  MoneyFilled,
-  More,
-  MoreRoundFilled,
-  MyDocument,
-  MyDocumentFilled,
-  Nature,
-  NatureFilled,
-  News,
-  NewsFilled,
-  Notification,
-  NotificationFilled,
-  OnlineRegistry,
-  OnlineRegistryFilled,
-  OpenInNew,
-  PaperClip,
-  Passport,
-  Pension,
-  PensionFilled,
-  Permits,
-  PermitsFilled,
-  PersonalData,
-  PersonalDataFilled,
-  PersonalId,
-  PersonalIdFilled,
-  Pharmacy,
-  PharmacyFilled,
-  Phone,
-  PieChart,
-  PieChartFilled,
-  Pin,
-  PinFilled,
-  Printer,
-  PrinteFilled,
-  PublicOrder,
-  PublicOrderFilled,
-  Push,
-  QrCodeFilled,
-  QrCodeOutline,
-  QrCodeScan,
-  RadioButton,
-  RadioButtonChecked,
-  RealEstate,
-  RealEstateFilled,
-  Recycling,
-  Reduce,
-  Registry,
-  RegistryFilled,
-  Regulation,
-  RegulationFilled,
-  Request,
-  Reservation,
-  ReservationFilled,
-  Resources,
-  ResourcesFilled,
-  Resume,
-  ResumeFilled,
-  RingsFamily,
-  Schedule,
-  ScheduleFilled,
-  Science,
-  ScienceFilled,
-  Search,
-  SecondaryEducation,
-  SecondaryEducationFilled,
-  ServicesFilled,
-  ServicesOutline,
-  ShareV1,
-  ShareV2,
-  Shield,
-  ShieldFailed,
-  ShieldFilled,
-  ShieldSuccess,
-  ShieldSuccessFilled,
-  ShieldWarninng,
-  Ship,
-  ShipFilled,
-  SmileFace,
-  SocialRegistry,
-  SocialRegistry1,
-  SoftwareRegistry,
-  SoftwareRegistryFilled,
-  Sport,
-  SportFilled,
-  Sputnik,
-  SputnikFilled,
-  Star,
-  StarFilled,
-  State,
-  StateFilled,
-  Theaters,
-  TheatersFilled,
-  Ticket,
-  TicketFilled,
-  Tourism,
-  TourismFilled,
-  Toys,
-  ToysFilled,
-  Train,
-  TrainFilled,
-  Trash,
-  TrashFilled,
-  TreeFruits,
-  TreeFruitsFilled,
-  Truck,
-  TruckFilled,
-  University,
-  UniversityFilled,
-  Unlock,
-  Update,
-  VeterinaryControl,
-  VeterinaryControlFilled,
-  ViewGrid,
-  ViewGridFilled,
-  ViewList,
-  ViewListFilled,
-  WarningFilled,
-  Filter,
-  SwapVertical,
-  Divider,
+  AccessibilityIcon,
+  AccountIcon,
+  AccountFilledIcon,
+  AccreditationIcon,
+  AccreditationFilledIcon,
+  AddIcon,
+  AgrocultureIcon,
+  AgrocultureFilledIcon,
+  AirplaneIcon,
+  AirplaneFilledIcon,
+  AlignLeftIcon,
+  AlignRightIcon,
+  AllowancesIcon,
+  AllowancesFilledIcon,
+  ApostilleIcon,
+  ApostilleFilledIcon,
+  ApplePayIcon,
+  ArchiveIcon,
+  ArchiveFilledIcon,
+  ArrowInCircleDownIcon,
+  ArrowInCircleLeftFilledIcon,
+  ArrowInCircleUpIcon,
+  ArrowRedoIcon,
+  BagIcon,
+  BagFilledIcon,
+  BagSearchIcon,
+  BagSearchFilledIcon,
+  BalanceIcon,
+  BalanceFilledIcon,
+  BankFolderIcon,
+  BankFolderFilledIcon,
+  BookIcon,
+  BookFilledIcon,
+  BrainIcon,
+  BrainFilledIcon,
+  BroadcasttvIcon,
+  BroadcasttvFilledIcon,
+  BurgerMenuIcon,
+  BusFrontIcon,
+  BusFrontFilledIcon,
+  BusinessIcon,
+  BusinessFilledIcon,
+  BusinessRegistrationIcon,
+  BusinessRegistrationFilledIcon,
+  CalendarIcon,
+  CalendarFilledIcon,
+  CallIcon,
+  CameraIcon,
+  CameraFilledIcon,
+  CarIcon,
+  CarFilledIcon,
+  CardIcon,
+  ChatIcon,
+  ChatFilledIcon,
+  CheckboxEmptyIcon,
+  CheckboxEmptyFilledIcon,
+  CheckedFilledIcon,
+  CheckedRoundIcon,
+  ChevronincircleleftIcon,
+  ChevronincircleleftFilledIcon,
+  ChildFaceIcon,
+  ChildFaceFilledIcon,
+  CityIcon,
+  CityFilledIcon,
+  ClearIcon,
+  ClearAlternativeIcon,
+  CloseIcon,
+  CollegeIcon,
+  CollegeFilledIcon,
+  ConfirmationNumberIcon,
+  ConfirmationNumberFilledIcon,
+  ConstructionIcon,
+  ConstructionFilledIcon,
+  CopyIcon,
+  CopyrightIcon,
+  Copyright1Icon,
+  CopyrightFilledIcon,
+  CourtIcon,
+  CourtFilledIcon,
+  CowIcon,
+  Cow1Icon,
+  CowFilledIcon,
+  CowFilled1Icon,
+  CustomsIcon,
+  CustomsFilledIcon,
+  CustomsTaxesIcon,
+  CustomsTaxesFilledIcon,
+  DebitCardIcon,
+  DebitCardFilledIcon,
+  DigitalIdIcon,
+  DisabilitySupportIcon,
+  DisabilitySupportFilledIcon,
+  DividerIcon,
+  DocIcon,
+  DocFilledIcon,
+  DocumentDiagramIcon,
+  DocumentDiagramFilledIcon,
+  DocumentTableIcon,
+  DocumentTableFilledIcon,
+  DragIndicatorIcon,
+  DriverLicenseIcon,
+  DriverPassportIcon,
+  EarthIcon,
+  EarthFilledIcon,
+  EditIcon,
+  EditFilledIcon,
+  EditNoteIcon,
+  EducationIcon,
+  EducationFilledIcon,
+  EmergencyIcon,
+  EmergencyFilledIcon,
+  EmploymentIcon,
+  EmploymentFilledIcon,
+  ErrorIcon,
+  FactoryIcon,
+  FactoryFilledIcon,
+  FamilyIcon,
+  FamilyFilledIcon,
+  FamilyHelpIcon,
+  FamilyHelpFilledIcon,
+  FilterIcon,
+  FinanceIcon,
+  FinanceFilledIcon,
+  FinanceIncomeIcon,
+  FinanceIncomeFilledIcon,
+  FingerprintIcon,
+  FlagIcon,
+  FlagFilledIcon,
+  FolderOpenedIcon,
+  FolderOpenedFilledIcon,
+  ForeignerIcon,
+  ForeignerFilledIcon,
+  ForestIcon,
+  ForestFilledIcon,
+  GoingAbroadIcon,
+  GoingAbroadFilledIcon,
+  GuardianshipChildIcon,
+  GuardianshipChildFilledIcon,
+  HandIcon,
+  HandFilledIcon,
+  HandshakeIcon,
+  HandshakeFilledIcon,
+  HealthIcon,
+  HeartIcon,
+  HeartFilledIcon,
+  HelpIcon,
+  HelpCenterArticleIcon,
+  HelpCenterArticleFilledIcon,
+  HourglassIcon,
+  HousServicesIcon,
+  HousServicesFilledIcon,
+  HousingRelationsIcon,
+  HousingRelationsFilledIcon,
+  InfoFilledIcon,
+  InfoStrokeIcon,
+  InstructionsIcon,
+  InstructionsFilledIcon,
+  InternetIcon,
+  JobIcon,
+  JobFilledIcon,
+  KeyIcon,
+  KeyFilledIcon,
+  LanguageIcon,
+  LawIcon,
+  LawFilledIcon,
+  LeafIcon,
+  LeafFilledIcon,
+  LibraryAddIcon,
+  LibraryAddFilledIcon,
+  LicenseIcon,
+  LicenseFilledIcon,
+  LicensesIcon,
+  LicensesFilledIcon,
+  LikeIcon,
+  ListMenuIcon,
+  ListSquareIcon,
+  LoaderIcon,
+  LoanIcon,
+  LoanFilledIcon,
+  LocationUserIcon,
+  LocationUserFilledIcon,
+  LockIcon,
+  LogoutIcon,
+  MedicineIcon,
+  MedicineBriefcaseIcon,
+  MedicineBriefcaseFilledIcon,
+  MedicineCertificationIcon,
+  MedicineCertificationFilledIcon,
+  MedicineFilledIcon,
+  MedicineHelpIcon,
+  MedicineHelpFilledIcon,
+  MessageIcon,
+  MessageListFilledIcon,
+  MessageListOutlineIcon,
+  MessagesCheckIcon,
+  MicrophoneIcon,
+  MicrophoneFilledIcon,
+  MilitaryServiceIcon,
+  MilitaryServiceFilledIcon,
+  MiningIcon,
+  MiningFilledIcon,
+  MoneyIcon,
+  MoneyFilledIcon,
+  MoreIcon,
+  MoreRoundFilledIcon,
+  MyDocumentIcon,
+  MyDocumentFilledIcon,
+  NatureIcon,
+  NatureFilledIcon,
+  NewsIcon,
+  NewsFilledIcon,
+  NotificationIcon,
+  NotificationFilledIcon,
+  OnlineRegistryIcon,
+  OnlineRegistryFilledIcon,
+  OpenInNewIcon,
+  PaperClipIcon,
+  PassportIcon,
+  PensionIcon,
+  PensionFilledIcon,
+  PermitsIcon,
+  PermitsFilledIcon,
+  PersonalDataIcon,
+  PersonalDataFilledIcon,
+  PersonalIdIcon,
+  PersonalIdFilledIcon,
+  PharmacyIcon,
+  PharmacyFilledIcon,
+  PhoneIcon,
+  PieChartIcon,
+  PieChartFilledIcon,
+  PinIcon,
+  PinFilledIcon,
+  PrinterIcon,
+  PrinterFilledIcon,
+  PublicOrderIcon,
+  PublicOrderFilledIcon,
+  PushIcon,
+  QrCodeFilledIcon,
+  QrCodeOutlineIcon,
+  QrCodeScanIcon,
+  RadioButtonIcon,
+  RadioButtonCheckedIcon,
+  RealEstateIcon,
+  RealEstateFilledIcon,
+  RecyclingIcon,
+  ReduceIcon,
+  RegistryIcon,
+  RegistryFilledIcon,
+  RegulationIcon,
+  RegulationFilledIcon,
+  RequestIcon,
+  ReservationIcon,
+  ReservationFilledIcon,
+  ResourcesIcon,
+  ResourcesFilledIcon,
+  ResumeIcon,
+  ResumeFilledIcon,
+  RingsFamilyIcon,
+  ScheduleIcon,
+  ScheduleFilledIcon,
+  ScienceIcon,
+  ScienceFilledIcon,
+  SearchIcon,
+  SecondaryEducationIcon,
+  SecondaryEducationFilledIcon,
+  ServicesFilledIcon,
+  ServicesOutlineIcon,
+  ShareV1Icon,
+  ShareV2Icon,
+  ShieldIcon,
+  ShieldFailedIcon,
+  ShieldFilledIcon,
+  ShieldSuccessIcon,
+  ShieldSuccessFilledIcon,
+  ShieldWarninngIcon,
+  ShipIcon,
+  ShipFilledIcon,
+  SmileFaceIcon,
+  SocialRegistryIcon,
+  SocialRegistry1Icon,
+  SoftwareRegistryIcon,
+  SoftwareRegistryFilledIcon,
+  SportIcon,
+  SportFilledIcon,
+  SputnikIcon,
+  SputnikFilledIcon,
+  StarIcon,
+  StarFilledIcon,
+  StateIcon,
+  StateFilledIcon,
+  SwapVerticalIcon,
+  TheatersIcon,
+  TheatersFilledIcon,
+  TicketIcon,
+  TicketFilledIcon,
+  TourismIcon,
+  TourismFilledIcon,
+  ToysIcon,
+  ToysFilledIcon,
+  TrainIcon,
+  TrainFilledIcon,
+  TrashIcon,
+  TrashFilledIcon,
+  TreeFruitsIcon,
+  TreeFruitsFilledIcon,
+  TruckIcon,
+  TruckFilledIcon,
+  UniversityIcon,
+  UniversityFilledIcon,
+  UnlockIcon,
+  UpdateIcon,
+  VeterinaryControlIcon,
+  VeterinaryControlFilledIcon,
+  ViewGridIcon,
+  ViewGridFilledIcon,
+  ViewListIcon,
+  ViewListFilledIcon,
+  WarningFilledIcon,
 };
 
 export default General;

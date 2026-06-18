@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const TrashFilled = (props: React.SVGProps<SVGSVGElement>) => (
+export const TrashFilledIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

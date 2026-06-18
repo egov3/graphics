@@ -1,29 +1,29 @@
-import { ArrowLeft } from "./ArrowLeft";
-import { ArrowRight } from "./ArrowRight";
-import { ArrowUp } from "./ArrowUp";
-import { Check } from "./Check";
-import { ChevronDown } from "./ChevronDown";
-import { ChevronDownSmall } from "./ChevronDownSmall";
-import { ChevronLeft } from "./ChevronLeft";
-import { ChevronLeftSmall } from "./ChevronLeftSmall";
-import { ChevronRight } from "./ChevronRight";
-import { ChevronRightSmall } from "./ChevronRightSmall";
-import { ChevronUp } from "./ChevronUp";
-import { ChevronUpSmall } from "./ChevronUpSmall";
+import { ArrowLeftIcon } from "./ArrowLeft";
+import { ArrowRightIcon } from "./ArrowRight";
+import { ArrowUpIcon } from "./ArrowUp";
+import { CheckIcon } from "./Check";
+import { ChevronDownIcon } from "./ChevronDown";
+import { ChevronDownSmallIcon } from "./ChevronDownSmall";
+import { ChevronLeftIcon } from "./ChevronLeft";
+import { ChevronLeftSmallIcon } from "./ChevronLeftSmall";
+import { ChevronRightIcon } from "./ChevronRight";
+import { ChevronRightSmallIcon } from "./ChevronRightSmall";
+import { ChevronUpIcon } from "./ChevronUp";
+import { ChevronUpSmallIcon } from "./ChevronUpSmall";
 
 const Basic = {
-  ArrowLeft,
-  ArrowRight,
-  ArrowUp,
-  Check,
-  ChevronDownSmall,
-  ChevronDown,
-  ChevronLeftSmall,
-  ChevronLeft,
-  ChevronRightSmall,
-  ChevronRight,
-  ChevronUpSmall,
-  ChevronUp,
+  ArrowLeftIcon,
+  ArrowRightIcon,
+  ArrowUpIcon,
+  CheckIcon,
+  ChevronDownIcon,
+  ChevronDownSmallIcon,
+  ChevronLeftIcon,
+  ChevronLeftSmallIcon,
+  ChevronRightIcon,
+  ChevronRightSmallIcon,
+  ChevronUpIcon,
+  ChevronUpSmallIcon,
 };
 
 export default Basic;

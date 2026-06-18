@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const ServiceNotAvailableGov = (
+export const ServiceNotAvailableGovIllustration = (
   props: React.SVGProps<SVGSVGElement>,
 ) => (
   <svg

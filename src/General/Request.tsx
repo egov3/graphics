@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const Request = (props: React.SVGProps<SVGSVGElement>) => (
+export const RequestIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const EOtinish_2 = (props: React.SVGProps<SVGSVGElement>) => (
+export const EOtinish_2Icon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

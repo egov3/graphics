@@ -1,4 +1,6 @@
-export const CarDocument = (props: React.SVGProps<SVGSVGElement>) => (
+export const CarDocumentIllustration = (
+  props: React.SVGProps<SVGSVGElement>,
+) => (
   <svg
     width="95"
     height="60"

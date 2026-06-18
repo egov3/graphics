@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const Agroculture = (props: React.SVGProps<SVGSVGElement>) => (
+export const AgrocultureIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

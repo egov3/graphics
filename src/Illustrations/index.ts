@@ -1,41 +1,41 @@
 import { EgovInfoIcon } from "./EgovInfoIcon";
-import { FaceId } from "./FaceId";
-import { InternetNotAvailable } from "./InternetNotAvailable";
-import { LanguageGraphics } from "./Language";
-import { Notifications } from "./Notifications";
-import { RegistrationSuccess } from "./RegistrationSuccess";
-import { ServerError } from "./ServerError";
-import { ServerTechnicalWorks } from "./ServerTechnicalWorks";
-import { ServerUpdate } from "./ServerUpdate";
-import { ServiceNotAvailable } from "./ServiceNotAvailable";
-import { ServiceNotAvailableGov } from "./ServiceNotAvailableGov";
-import { SignError } from "./SignError";
-import { SignSuccess } from "./SignSuccess";
-import { ThemeGraphics } from "./Theme";
-import { TouchId } from "./TouchId";
-import { Verification } from "./Verification";
-import { VerificationError } from "./VerificationError";
-import { VerificationSuccess } from "./VerificationSuccess";
+import { FaceIdIllustration } from "./FaceId";
+import { InternetNotAvailableIllustration } from "./InternetNotAvailable";
+import { LanguageGraphicsIllustration } from "./Language";
+import { NotificationsIllustration } from "./Notifications";
+import { RegistrationSuccessIllustration } from "./RegistrationSuccess";
+import { ServerErrorIllustration } from "./ServerError";
+import { ServerTechnicalWorksIllustration } from "./ServerTechnicalWorks";
+import { ServerUpdateIllustration } from "./ServerUpdate";
+import { ServiceNotAvailableIllustration } from "./ServiceNotAvailable";
+import { ServiceNotAvailableGovIllustration } from "./ServiceNotAvailableGov";
+import { SignErrorIllustration } from "./SignError";
+import { SignSuccessIllustration } from "./SignSuccess";
+import { ThemeGraphicsIllustration } from "./Theme";
+import { TouchIdIllustration } from "./TouchId";
+import { VerificationIllustration } from "./Verification";
+import { VerificationErrorIllustration } from "./VerificationError";
+import { VerificationSuccessIllustration } from "./VerificationSuccess";
 
 const Illustrations = {
-  FaceId,
-  InternetNotAvailable,
-  Language: LanguageGraphics,
-  Notifications,
-  RegistrationSuccess,
-  ServerError,
-  ServerTechnicalWorks,
-  ServerUpdate,
-  ServiceNotAvailable,
-  ServiceNotAvailableGov,
-  SignError,
-  SignSuccess,
-  Theme: ThemeGraphics,
-  TouchId,
-  Verification,
-  VerificationError,
-  VerificationSuccess,
   EgovInfoIcon,
+  FaceIdIllustration,
+  InternetNotAvailableIllustration,
+  LanguageGraphicsIllustration,
+  NotificationsIllustration,
+  RegistrationSuccessIllustration,
+  ServerErrorIllustration,
+  ServerTechnicalWorksIllustration,
+  ServerUpdateIllustration,
+  ServiceNotAvailableIllustration,
+  ServiceNotAvailableGovIllustration,
+  SignErrorIllustration,
+  SignSuccessIllustration,
+  ThemeGraphicsIllustration,
+  TouchIdIllustration,
+  VerificationIllustration,
+  VerificationErrorIllustration,
+  VerificationSuccessIllustration,
 };
 
 export default Illustrations;

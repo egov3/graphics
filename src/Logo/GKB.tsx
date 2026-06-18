@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const GKB = (props: React.SVGProps<SVGSVGElement>) => (
+export const GKBIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

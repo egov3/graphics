@@ -1,6 +1,8 @@
 import type React from "react";
 
-export const FolderOpenedFilled = (props: React.SVGProps<SVGSVGElement>) => (
+export const FolderOpenedFilledIcon = (
+  props: React.SVGProps<SVGSVGElement>,
+) => (
   <svg
     width="24"
     height="24"

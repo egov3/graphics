@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const Divider = (props: React.SVGProps<SVGSVGElement>) => (
+export const DividerIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="12"
     height="2"

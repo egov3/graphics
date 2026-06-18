@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const SoftwareRegistryFilled = (
+export const SoftwareRegistryFilledIcon = (
   props: React.SVGProps<SVGSVGElement>,
 ) => (
   <svg

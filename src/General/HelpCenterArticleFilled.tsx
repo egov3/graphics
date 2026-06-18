@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const HelpCenterArticleFilled = (
+export const HelpCenterArticleFilledIcon = (
   props: React.SVGProps<SVGSVGElement>,
 ) => (
   <svg

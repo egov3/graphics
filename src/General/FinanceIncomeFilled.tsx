@@ -1,6 +1,8 @@
 import type React from "react";
 
-export const FinanceIncomeFilled = (props: React.SVGProps<SVGSVGElement>) => (
+export const FinanceIncomeFilledIcon = (
+  props: React.SVGProps<SVGSVGElement>,
+) => (
   <svg
     width="24"
     height="24"

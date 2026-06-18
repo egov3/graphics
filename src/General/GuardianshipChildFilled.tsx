@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const GuardianshipChildFilled = (
+export const GuardianshipChildFilledIcon = (
   props: React.SVGProps<SVGSVGElement>,
 ) => (
   <svg

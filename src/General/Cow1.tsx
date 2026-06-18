@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const Cow1 = (props: React.SVGProps<SVGSVGElement>) => (
+export const Cow1Icon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

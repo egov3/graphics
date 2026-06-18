@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const Egov = (props: React.SVGProps<SVGSVGElement>) => (
+export const EgovIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     width="24"

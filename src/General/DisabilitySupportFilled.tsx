@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const DisabilitySupportFilled = (
+export const DisabilitySupportFilledIcon = (
   props: React.SVGProps<SVGSVGElement>,
 ) => (
   <svg

@@ -1,6 +1,8 @@
 import type React from "react";
 
-export const InternetNotAvailable = (props: React.SVGProps<SVGSVGElement>) => (
+export const InternetNotAvailableIllustration = (
+  props: React.SVGProps<SVGSVGElement>,
+) => (
   <svg
     width="160"
     height="160"

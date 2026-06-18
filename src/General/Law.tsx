@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const Law = (props: React.SVGProps<SVGSVGElement>) => (
+export const LawIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

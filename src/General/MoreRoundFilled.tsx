@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const MoreRoundFilled = (props: React.SVGProps<SVGSVGElement>) => (
+export const MoreRoundFilledIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

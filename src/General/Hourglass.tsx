@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const Hourglass = (props: React.SVGProps<SVGSVGElement>) => (
+export const HourglassIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

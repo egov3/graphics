@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const Check = (props: React.SVGProps<SVGSVGElement>) => (
+export const CheckIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

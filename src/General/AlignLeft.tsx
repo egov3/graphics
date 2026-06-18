@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const AlignLeft = (props: React.SVGProps<SVGSVGElement>) => (
+export const AlignLeftIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"

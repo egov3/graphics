@@ -1,6 +1,6 @@
 import type React from "react";
 
-export const SettingsOutline = (props: React.SVGProps<SVGSVGElement>) => (
+export const SettingsOutlineIcon = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     width="24"
     height="24"
