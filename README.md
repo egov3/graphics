@@ -39,9 +39,16 @@ yarn npm-check -u
 
 ### Пример использования
 ```tsx
-import Icons from '@egov3/icons';
+import Icons from '@egov3/graphics';
 
-<Icons.Basic.СhevronUpSmall fill="#758393" />
+<Icons.Basic.СhevronUpSmallIcon fill="#758393" />
+```
+
+#### Или указывать полный путь для уменьшения размера bundle
+```tsx
+import { ChevronUpSmallIcon } from "@egov3/graphics/Basic/ChevronUpSmall"
+
+<ChevronUpSmallIcon fill="#758393" />
 ```
 
 ## Release
