@@ -1,20 +1,36 @@
 /// <reference types="node" />
-import { globSync } from "node:fs";
+import { readdirSync, statSync } from "node:fs";
+import path from "node:path";
 import { defineConfig } from "tsup";
 
+const collectSourceFiles = (dirPath: string): string[] =>
+  readdirSync(dirPath).flatMap((entryName) => {
+    const entryPath = path.join(dirPath, entryName);
+    const stats = statSync(entryPath);
+
+    if (stats.isDirectory()) {
+      return collectSourceFiles(entryPath);
+    }
+
+    return /\.(ts|tsx)$/.test(entryPath) ? [entryPath] : [];
+  });
+
 const entries = Object.fromEntries(
-  globSync("src/**/*.{ts,tsx}").flatMap((filePath: string) => {
+  collectSourceFiles("src").flatMap((filePath) => {
     if (
       filePath.endsWith(".d.ts") ||
-      filePath.includes("/Stories/") ||
+      filePath.includes(`${path.sep}Stories${path.sep}`) ||
       filePath.endsWith(".stories.tsx")
     ) {
       return [];
     }
 
-    const entryName = filePath.replace(/^src\//, "").replace(/\.(ts|tsx)$/, "");
+    const normalizedPath = filePath.split(path.sep).join("/");
+    const entryName = normalizedPath
+      .replace(/^src\//, "")
+      .replace(/\.(ts|tsx)$/, "");
 
-    return [[entryName, filePath]];
+    return [[entryName, normalizedPath]];
   }),
 );
 
