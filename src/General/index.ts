@@ -118,6 +118,7 @@ import { FamilyIcon } from "./Family";
 import { FamilyFilledIcon } from "./FamilyFilled";
 import { FamilyHelpIcon } from "./FamilyHelp";
 import { FamilyHelpFilledIcon } from "./FamilyHelpFilled";
+import { FeedbackLikeIcon } from "./FeedbackLike";
 import { FilterIcon } from "./Filter";
 import { FinanceIcon } from "./Finance";
 import { FinanceFilledIcon } from "./FinanceFilled";
@@ -439,6 +440,7 @@ const General = {
   FamilyFilledIcon,
   FamilyHelpIcon,
   FamilyHelpFilledIcon,
+  FeedbackLikeIcon,
   FilterIcon,
   FinanceIcon,
   FinanceFilledIcon,
