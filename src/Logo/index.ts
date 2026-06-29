@@ -7,6 +7,7 @@ import { Con1Icon } from "./Con1";
 import { ConsumerProtectionIcon } from "./ConsumerProtection";
 import { EDensaulyqIcon } from "./EDensaulyq";
 import { EgovIcon } from "./Egov";
+import { EgovShortIcon } from "./EgovShort";
 import { ELicenseIcon } from "./ELicense";
 import { ENPFIcon } from "./ENPF";
 import { EnbekIcon } from "./Enbek";
@@ -78,6 +79,7 @@ const Logo = {
   WhatsAppIcon,
   YoutubeIcon,
   ZanKomegiIcon,
+  EgovShortIcon,
 };
 
 export default Logo;
