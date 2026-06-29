@@ -4,6 +4,7 @@ import MsgBg from "./Msg-bg.webp";
 import SpringBg from "./Spring-bg.webp";
 import SummerBg from "./Summer-bg.webp";
 import WinterBg from "./Winter-bg.webp";
+import BannerSearchBg from "./BannerSearch_bg.webp";
 
 export const Backgrounds = {
   "Autumn-bg": AutumnBg,
@@ -12,4 +13,5 @@ export const Backgrounds = {
   "Winter-bg": WinterBg,
   "Auth-bg": AuthBg,
   "Msg-bg": MsgBg,
+  "Banner-search-bg": BannerSearchBg,
 };
