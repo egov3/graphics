@@ -1,3 +1,5 @@
+import { DocIllustration } from "./Doc";
+import { DocDeletedIllustration } from "./DocDeleted";
 import { EgovInfoIcon } from "./EgovInfoIcon";
 import { FaceIdIllustration } from "./FaceId";
 import { InternetNotAvailableIllustration } from "./InternetNotAvailable";
@@ -19,6 +21,8 @@ import { VerificationErrorIllustration } from "./VerificationError";
 import { VerificationSuccessIllustration } from "./VerificationSuccess";
 
 const Illustrations = {
+  DocIllustration,
+  DocDeletedIllustration,
   EgovInfoIcon,
   FaceIdIllustration,
   InternetNotAvailableIllustration,
