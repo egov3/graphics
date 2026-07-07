@@ -1,11 +1,11 @@
 import AuthBg from "./Auth-bg.webp";
 import AutumnBg from "./Autumn-bg.webp";
+import BannerSearchBg from "./BannerSearch_bg.webp";
 import MsgBg from "./Msg-bg.webp";
+import NotificationsBg from "./Notifications_bg.webp";
 import SpringBg from "./Spring-bg.webp";
 import SummerBg from "./Summer-bg.webp";
 import WinterBg from "./Winter-bg.webp";
-import BannerSearchBg from "./BannerSearch_bg.webp";
-import NotificationsBg from "./Notifications_bg.webp";
 
 export const Backgrounds = {
   "Autumn-bg": AutumnBg,
