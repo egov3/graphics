@@ -1,5 +1,6 @@
 "use client";
 
+import type { StoryObj } from "@storybook/react";
 import { Documents } from "../Documents";
 import { CardWrapperItem } from "./CardWrapperItem";
 
@@ -23,3 +24,13 @@ const meta = {
 };
 
 export default meta;
+
+type IDStory = StoryObj<typeof Documents.PersonalIDIllustration>;
+
+export const LargeId: IDStory = {
+  render: (args) => <Documents.PersonalIDIllustration {...args} />,
+  args: {
+    width: 905,
+    height: 607,
+  },
+};
