@@ -9,6 +9,7 @@ import { MastersDiplomaIllustration } from "./MastersDiploma";
 import { NationalFundIllustration } from "./NationalFund";
 import { PassportIllustration } from "./Passport";
 import { PersonalIDIllustration } from "./PersonalID";
+import { PersonalIDLabeledIllustration } from "./PersonalIDLabeled";
 
 const Documents = {
   BachelorsDiplomaIllustration,
@@ -22,6 +23,7 @@ const Documents = {
   NationalFundIllustration,
   PassportIllustration,
   PersonalIDIllustration,
+  PersonalIDLabeledIllustration,
 };
 
 export { Documents };
