@@ -34,3 +34,11 @@ export const LargeId: IDStory = {
     height: 607,
   },
 };
+
+export const LargeLabeledId: IDStory = {
+  render: (args) => <Documents.PersonalIDLabeledIllustration {...args} />,
+  args: {
+    width: 905,
+    height: 607,
+  },
+};
