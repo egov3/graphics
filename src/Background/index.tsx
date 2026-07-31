@@ -1,6 +1,7 @@
 import AuthBg from "./Auth-bg.webp";
 import AutumnBg from "./Autumn-bg.webp";
 import BannerSearchBg from "./BannerSearch_bg.webp";
+import EgovMobileBanner from "./EgovMobile-banner.webp";
 import MsgBg from "./Msg-bg.webp";
 import NotificationsBg from "./Notifications_bg.webp";
 import SpringBg from "./Spring-bg.webp";
@@ -16,4 +17,5 @@ export const Backgrounds = {
   "Msg-bg": MsgBg,
   "Banner-search-bg": BannerSearchBg,
   "Notifications-bg": NotificationsBg,
+  "Egov-mobile-banner": EgovMobileBanner,
 };
