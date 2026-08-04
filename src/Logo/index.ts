@@ -1,4 +1,6 @@
+import { AndroidIcon } from "./Android";
 import { AnticorIcon } from "./Anticor";
+import { AppleIcon } from "./Apple";
 import { ApplePayIcon } from "./ApplePay";
 import { BilimIcon } from "./Bilim";
 import { BudgetIcon } from "./Budget";
@@ -7,6 +9,7 @@ import { Con1Icon } from "./Con1";
 import { ConsumerProtectionIcon } from "./ConsumerProtection";
 import { EDensaulyqIcon } from "./EDensaulyq";
 import { EgovIcon } from "./Egov";
+import { EgovMobileIcon } from "./EgovMobile";
 import { EgovShortIcon } from "./EgovShort";
 import { ELicenseIcon } from "./ELicense";
 import { ENPFIcon } from "./ENPF";
@@ -40,7 +43,9 @@ import { YoutubeIcon } from "./Youtube";
 import { ZanKomegiIcon } from "./ZanKomegi";
 
 const Logo = {
+  AndroidIcon,
   AnticorIcon,
+  AppleIcon,
   ApplePayIcon,
   BilimIcon,
   BudgetIcon,
@@ -54,6 +59,7 @@ const Logo = {
   EOtinish_2Icon,
   EPIRIcon,
   EgovIcon,
+  EgovMobileIcon,
   EnbekIcon,
   EnisIcon,
   FacebookIcon,
