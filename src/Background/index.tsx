@@ -4,6 +4,8 @@ import BannerSearchBg from "./BannerSearch_bg.webp";
 import EgovMobileBanner from "./EgovMobile-banner.webp";
 import MsgBg from "./Msg-bg.webp";
 import NotificationsBg from "./Notifications_bg.webp";
+import NotificationBg from "./NotificationsBg.webp";
+import SearchBg from "./SearchBg.webp";
 import SpringBg from "./Spring-bg.webp";
 import SummerBg from "./Summer-bg.webp";
 import WinterBg from "./Winter-bg.webp";
@@ -18,4 +20,6 @@ export const Backgrounds = {
   "Banner-search-bg": BannerSearchBg,
   "Notifications-bg": NotificationsBg,
   "Egov-mobile-banner": EgovMobileBanner,
+  "Banner-search-bg-new": SearchBg,
+  "Notifications-bg-new": NotificationBg,
 };
