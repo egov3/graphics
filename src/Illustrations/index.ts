@@ -1,3 +1,5 @@
+import { AndroidDownloadQrIcon } from "./AndroidDownloadQr";
+import { AppleDownloadQrIcon } from "./AppleDownloadQr";
 import { DocIllustration } from "./Doc";
 import { DocDeletedIllustration } from "./DocDeleted";
 import { EgovInfoIcon } from "./EgovInfoIcon";
@@ -21,6 +23,8 @@ import { VerificationErrorIllustration } from "./VerificationError";
 import { VerificationSuccessIllustration } from "./VerificationSuccess";
 
 const Illustrations = {
+  AndroidDownloadQrIcon,
+  AppleDownloadQrIcon,
   DocIllustration,
   DocDeletedIllustration,
   EgovInfoIcon,
