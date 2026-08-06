@@ -1,7 +1,9 @@
 import { AndroidIcon } from "./Android";
 import { AnticorIcon } from "./Anticor";
+import { AppEgovMobileIcon } from "./AppEgovMobileIcon";
 import { AppleIcon } from "./Apple";
 import { ApplePayIcon } from "./ApplePay";
+import { AppleStoreIcon } from "./AppleStoreIcon";
 import { BilimIcon } from "./Bilim";
 import { BudgetIcon } from "./Budget";
 import { CheckdocIcon } from "./Checkdoc";
@@ -20,6 +22,7 @@ import { EOtinish_2Icon } from "./EOtinish_2";
 import { EPIRIcon } from "./EPIR";
 import { FacebookIcon } from "./Facebook";
 import { GKBIcon } from "./GKB";
+import { GooglePlayStoreIcon } from "./GooglePlayStoreIcon";
 import { HalykIcon } from "./Halyk";
 import { InstagramIcon } from "./Instagram";
 import { InternetIcon } from "./Internet";
@@ -86,6 +89,9 @@ const Logo = {
   YoutubeIcon,
   ZanKomegiIcon,
   EgovShortIcon,
+  GooglePlayStoreIcon,
+  AppleStoreIcon,
+  AppEgovMobileIcon,
 };
 
 export default Logo;
