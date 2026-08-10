@@ -182,6 +182,8 @@ import { LocationUserIcon } from "./LocationUser";
 import { LocationUserFilledIcon } from "./LocationUserFilled";
 import { LockIcon } from "./Lock";
 import { LogoutIcon } from "./Logout";
+import { MailReadIcon } from "./MailRead";
+import { MailReadFilledIcon } from "./MailReadFilled";
 import { MedicineIcon } from "./Medicine";
 import { MedicineBriefcaseIcon } from "./MedicineBriefcase";
 import { MedicineBriefcaseFilledIcon } from "./MedicineBriefcaseFilled";
@@ -512,6 +514,8 @@ const General = {
   MedicineFilledIcon,
   MedicineHelpIcon,
   MedicineHelpFilledIcon,
+  MailReadIcon,
+  MailReadFilledIcon,
   MessageIcon,
   MessageListFilledIcon,
   MessageListOutlineIcon,
