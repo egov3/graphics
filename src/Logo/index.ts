@@ -11,6 +11,7 @@ import { Con1Icon } from "./Con1";
 import { ConsumerProtectionIcon } from "./ConsumerProtection";
 import { EDensaulyqIcon } from "./EDensaulyq";
 import { EgovIcon } from "./Egov";
+import { EgovColoredIcon } from "./EgovColored";
 import { EgovMobileIcon } from "./EgovMobile";
 import { EgovShortIcon } from "./EgovShort";
 import { ELicenseIcon } from "./ELicense";
@@ -62,6 +63,7 @@ const Logo = {
   EOtinish_2Icon,
   EPIRIcon,
   EgovIcon,
+  EgovColoredIcon,
   EgovMobileIcon,
   EnbekIcon,
   EnisIcon,
