@@ -4,6 +4,7 @@ import { AppEgovMobileIcon } from "./AppEgovMobileIcon";
 import { AppleIcon } from "./Apple";
 import { ApplePayIcon } from "./ApplePay";
 import { AppleStoreIcon } from "./AppleStoreIcon";
+import { AshykUkimetIcon } from "./AshykUkimetIcon";
 import { BilimIcon } from "./Bilim";
 import { BudgetIcon } from "./Budget";
 import { CheckdocIcon } from "./Checkdoc";
@@ -35,6 +36,7 @@ import { PSCIcon } from "./PSC";
 import { QazPostIcon } from "./QazPost";
 import { QuryltaiIcon } from "./Quryltai";
 import { SalyqIcon } from "./Salyq";
+import { SmartBridgeIcon } from "./SmartBridgeIcon";
 import { SocialwalletIcon } from "./Socialwallet";
 import { SudIcon } from "./Sud";
 import { TazaQzIcon } from "./TazaQz";
@@ -94,6 +96,8 @@ const Logo = {
   GooglePlayStoreIcon,
   AppleStoreIcon,
   AppEgovMobileIcon,
+  SmartBridgeIcon,
+  AshykUkimetIcon,
 };
 
 export default Logo;
