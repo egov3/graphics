@@ -7,6 +7,7 @@ export const AshykUkimetIcon = (props: React.SVGProps<SVGSVGElement>) => (
     height="48"
     viewBox="0 0 48 48"
     fill="none"
+    data-testid="AshykUkimetIcon"
     {...props}
   >
     <path
