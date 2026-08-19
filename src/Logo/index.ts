@@ -1,3 +1,4 @@
+import { AituIcon } from "./Aitu";
 import { AndroidIcon } from "./Android";
 import { AnticorIcon } from "./Anticor";
 import { AppEgovMobileIcon } from "./AppEgovMobileIcon";
@@ -23,10 +24,12 @@ import { EOtinishIcon } from "./EOtinish";
 import { EOtinish_2Icon } from "./EOtinish_2";
 import { EPIRIcon } from "./EPIR";
 import { FacebookIcon } from "./Facebook";
+import { FacebookColoredIcon } from "./FacebookColored";
 import { GKBIcon } from "./GKB";
 import { GooglePlayStoreIcon } from "./GooglePlayStoreIcon";
 import { HalykIcon } from "./Halyk";
 import { InstagramIcon } from "./Instagram";
+import { InstagramColoredIcon } from "./InstagramColored";
 import { InternetIcon } from "./Internet";
 import { KaspiIcon } from "./Kaspi";
 import { KGKIcon } from "./KGK";
@@ -41,11 +44,14 @@ import { SocialwalletIcon } from "./Socialwallet";
 import { SudIcon } from "./Sud";
 import { TazaQzIcon } from "./TazaQz";
 import { TelegramIcon } from "./Telegram";
+import { TelegramColoredIcon } from "./TelegramColored";
 import { TwitterIcon } from "./Twitter";
 import { VideoCONIcon } from "./VideoCON";
 import { VKIcon } from "./VK";
+import { VKColoredIcon } from "./VKColored";
 import { WhatsAppIcon } from "./WhatsApp";
 import { YoutubeIcon } from "./Youtube";
+import { YoutubeColoredIcon } from "./YoutubeColored";
 import { ZanKomegiIcon } from "./ZanKomegi";
 
 const Logo = {
@@ -98,6 +104,12 @@ const Logo = {
   AppEgovMobileIcon,
   SmartBridgeIcon,
   AshykUkimetIcon,
+  InstagramColoredIcon,
+  TelegramColoredIcon,
+  FacebookColoredIcon,
+  VKColoredIcon,
+  YoutubeColoredIcon,
+  AituIcon,
 };
 
 export default Logo;
