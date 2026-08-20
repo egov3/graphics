@@ -2,9 +2,7 @@ import type { Meta, StoryObj } from "@storybook/react";
 import { Graphics } from "..";
 
 const QRsGallery = () => (
-  <div
-    style={{ display: "flex", flexDirection: "row", alignItems: "center" }}
-  >
+  <div style={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
     {Object.entries(Graphics.QRs).map(([name, src]) => (
       <div key={name} style={{ margin: "10px", textAlign: "center" }}>
         <img
