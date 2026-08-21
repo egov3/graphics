@@ -1,3 +1,4 @@
+import { AituIcon } from "./Aitu";
 import { AndroidIcon } from "./Android";
 import { AnticorIcon } from "./Anticor";
 import { AppEgovMobileIcon } from "./AppEgovMobileIcon";
@@ -98,6 +99,7 @@ const Logo = {
   AppEgovMobileIcon,
   SmartBridgeIcon,
   AshykUkimetIcon,
+  AituIcon,
 };
 
 export default Logo;
