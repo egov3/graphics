@@ -1,3 +1,4 @@
+import { AiPlatformIcon } from "./AiPlatform";
 import { AituIcon } from "./Aitu";
 import { AndroidIcon } from "./Android";
 import { AnticorIcon } from "./Anticor";
@@ -35,6 +36,7 @@ import { MastercardIcon } from "./Mastercard";
 import { OpenGovIcon } from "./OpenGov";
 import { PSCIcon } from "./PSC";
 import { QazPostIcon } from "./QazPost";
+import { QazTechIcon } from "./QazTech";
 import { QuryltaiIcon } from "./Quryltai";
 import { SalyqIcon } from "./Salyq";
 import { SmartBridgeIcon } from "./SmartBridgeIcon";
@@ -100,6 +102,8 @@ const Logo = {
   SmartBridgeIcon,
   AshykUkimetIcon,
   AituIcon,
+  QazTechIcon,
+  AiPlatformIcon,
 };
 
 export default Logo;
