@@ -7,6 +7,7 @@ import General from "./General";
 import Illustrations from "./Illustrations";
 import Logo from "./Logo";
 import NavigationBar from "./NavigationBar";
+import { QRs } from "./QR";
 import { Wallet } from "./Wallet";
 
 export const Icons = {
@@ -23,4 +24,5 @@ export const Graphics = {
   Documents,
   Wallet,
   Backgrounds,
+  QRs,
 };
