@@ -4,6 +4,7 @@ import Basic from "./Basic";
 import { Documents } from "./Documents";
 import Emoji from "./Emoji";
 import General from "./General";
+import { IllustrationImg } from "./IllustrationImg";
 import Illustrations from "./Illustrations";
 import Logo from "./Logo";
 import NavigationBar from "./NavigationBar";
@@ -21,6 +22,7 @@ export const Icons = {
 
 export const Graphics = {
   Illustrations,
+  IllustrationImg,
   Documents,
   Wallet,
   Backgrounds,

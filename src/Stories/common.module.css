@@ -15,6 +15,18 @@
   background-color: #f5f5f5;
 }
 
+.illustrationImgItem {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 8px;
+}
+
+.illustrationImgImage {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 .cardWrapperItem {
   background-color: bisque;
   padding: 16px;
