@@ -40,6 +40,7 @@ import { QazTechIcon } from "./QazTech";
 import { QuryltaiIcon } from "./Quryltai";
 import { SalyqIcon } from "./Salyq";
 import { SmartBridgeIcon } from "./SmartBridgeIcon";
+import { SmartDataUkimetIcon } from "./SmartDataUkimetIcon";
 import { SocialwalletIcon } from "./Socialwallet";
 import { SudIcon } from "./Sud";
 import { TazaQzIcon } from "./TazaQz";
@@ -104,6 +105,7 @@ const Logo = {
   AituIcon,
   QazTechIcon,
   AiPlatformIcon,
+  SmartDataUkimetIcon,
 };
 
 export default Logo;
