@@ -2,7 +2,6 @@
 
 import NavigationBar from "../NavigationBar";
 import { CardWrapperItem } from "./CardWrapperItem";
-
 import styles from "./common.module.css";
 
 const DefaultNavigationBarComponent = () => (
