@@ -3,7 +3,6 @@
 
 import Basic from "../Basic";
 import { CardWrapperItem } from "./CardWrapperItem";
-
 import styles from "./common.module.css";
 
 const DefaultBasicComponent = () => (

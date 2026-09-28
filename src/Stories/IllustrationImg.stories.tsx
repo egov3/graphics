@@ -1,9 +1,9 @@
 "use client";
 
 import type { Meta, StoryObj } from "@storybook/react";
+
 import { IllustrationImg } from "../IllustrationImg";
 import { CardWrapperItem } from "./CardWrapperItem";
-
 import styles from "./common.module.css";
 
 const IllustrationImgGallery = () => (

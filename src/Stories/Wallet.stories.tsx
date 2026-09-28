@@ -2,7 +2,6 @@
 
 import { Wallet } from "../Wallet";
 import { CardWrapperItem } from "./CardWrapperItem";
-
 import styles from "./common.module.css";
 
 const DefaultWalletComponent = () => (

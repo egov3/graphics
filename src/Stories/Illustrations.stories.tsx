@@ -2,7 +2,6 @@
 
 import Illustrations from "../Illustrations";
 import { CardWrapperItem } from "./CardWrapperItem";
-
 import styles from "./common.module.css";
 
 const DefaultIllustrationsComponent = () => (

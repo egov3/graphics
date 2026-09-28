@@ -1,9 +1,9 @@
 "use client";
 
 import type { StoryObj } from "@storybook/react";
+
 import { Documents } from "../Documents";
 import { CardWrapperItem } from "./CardWrapperItem";
-
 import styles from "./common.module.css";
 
 const DefaultDocumentsComponent = () => (

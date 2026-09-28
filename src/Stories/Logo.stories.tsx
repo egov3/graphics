@@ -2,7 +2,6 @@
 
 import Logo from "../Logo";
 import { CardWrapperItem } from "./CardWrapperItem";
-
 import styles from "./common.module.css";
 
 const DefaultLogoComponent = () => (

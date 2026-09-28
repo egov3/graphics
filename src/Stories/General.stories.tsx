@@ -2,7 +2,6 @@
 
 import General from "../General";
 import { CardWrapperItem } from "./CardWrapperItem";
-
 import styles from "./common.module.css";
 
 const DefaultGeneralComponent = () => (
