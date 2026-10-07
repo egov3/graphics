@@ -1,4 +1,5 @@
 import { AppStoreIllustration } from "./AppStore";
+import { AppStoreIconIllustration } from "./AppStoreIcon";
 import { DocIllustration } from "./Doc";
 import { DocDeletedIllustration } from "./DocDeleted";
 import { EgovInfoIcon } from "./EgovInfoIcon";
@@ -46,6 +47,7 @@ const Illustrations = {
   VerificationSuccessIllustration,
   QRIllustration,
   AppStoreIllustration,
+  AppStoreIconIllustration,
   PlayStoreIllustration,
   PlayStoreIconIllustration,
 };
