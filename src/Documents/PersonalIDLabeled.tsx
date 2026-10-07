@@ -14,6 +14,7 @@ export const PersonalIDLabeledIllustration = (
       height="37.98"
       viewBox="0 0 638.92 339.25"
       preserveAspectRatio="none"
+      transform="scale(3.8315789474)"
     >
       {/* ЖСН/ИИН */}
       <path
