@@ -1,4 +1,5 @@
 import { AppStoreIllustration } from "./AppStore";
+import { AppStoreIconIllustration } from "./AppStoreIcon";
 import { DocIllustration } from "./Doc";
 import { DocDeletedIllustration } from "./DocDeleted";
 import { EgovInfoIcon } from "./EgovInfoIcon";
@@ -7,6 +8,7 @@ import { InternetNotAvailableIllustration } from "./InternetNotAvailable";
 import { LanguageGraphicsIllustration } from "./Language";
 import { NotificationsIllustration } from "./Notifications";
 import { PlayStoreIllustration } from "./PlayStore";
+import { PlayStoreIconIllustration } from "./PlayStoreIcon";
 import { QRIllustration } from "./QR";
 import { RegistrationSuccessIllustration } from "./RegistrationSuccess";
 import { ServerErrorIllustration } from "./ServerError";
@@ -45,7 +47,9 @@ const Illustrations = {
   VerificationSuccessIllustration,
   QRIllustration,
   AppStoreIllustration,
+  AppStoreIconIllustration,
   PlayStoreIllustration,
+  PlayStoreIconIllustration,
 };
 
 export default Illustrations;
