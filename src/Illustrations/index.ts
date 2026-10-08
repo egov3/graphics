@@ -7,6 +7,7 @@ import { InternetNotAvailableIllustration } from "./InternetNotAvailable";
 import { LanguageGraphicsIllustration } from "./Language";
 import { NotificationsIllustration } from "./Notifications";
 import { PlayStoreIllustration } from "./PlayStore";
+import { PlayStoreIconIllustration } from "./PlayStoreIcon";
 import { QRIllustration } from "./QR";
 import { RegistrationSuccessIllustration } from "./RegistrationSuccess";
 import { ServerErrorIllustration } from "./ServerError";
@@ -46,6 +47,7 @@ const Illustrations = {
   QRIllustration,
   AppStoreIllustration,
   PlayStoreIllustration,
+  PlayStoreIconIllustration,
 };
 
 export default Illustrations;
