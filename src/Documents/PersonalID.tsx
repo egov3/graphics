@@ -3,7 +3,8 @@ export const PersonalIDIllustration = ({
   ...props
 }: React.SVGProps<SVGSVGElement>) => (
   <svg
-    width="364" height="230"
+    width="364"
+    height="230"
     viewBox="0 0 364 229.36"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
