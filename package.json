@@ -1,6 +1,6 @@
 {
   "name": "@egov3/graphics",
-  "version": "1.0.91",
+  "version": "1.0.92",
   "description": "A system-design graphics NPM package in Typescript",
   "license": "MIT",
   "author": "Zhassulan Baigozha",
