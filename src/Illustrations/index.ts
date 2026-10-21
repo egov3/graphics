@@ -1,3 +1,5 @@
+import { AndroidDownloadQrIllustration } from "./AndroidDownloadQr";
+import { AppleDownloadQrIllustration } from "./AppleDownloadQr";
 import { AppStoreIllustration } from "./AppStore";
 import { AppStoreIconIllustration } from "./AppStoreIcon";
 import { DocIllustration } from "./Doc";
@@ -50,6 +52,8 @@ const Illustrations = {
   AppStoreIconIllustration,
   PlayStoreIllustration,
   PlayStoreIconIllustration,
+  AndroidDownloadQrIllustration,
+  AppleDownloadQrIllustration,
 };
 
 export default Illustrations;
