@@ -97,6 +97,7 @@ import { DocumentDiagramIcon } from "./DocumentDiagram";
 import { DocumentDiagramFilledIcon } from "./DocumentDiagramFilled";
 import { DocumentTableIcon } from "./DocumentTable";
 import { DocumentTableFilledIcon } from "./DocumentTableFilled";
+import { DownloadIcon } from "./Download";
 import { DragIndicatorIcon } from "./DragIndicator";
 import { DriverLicenseIcon } from "./DriverLicense";
 import { DriverPassportIcon } from "./DriverPassport";
@@ -421,6 +422,7 @@ const General = {
   DocumentDiagramFilledIcon,
   DocumentTableIcon,
   DocumentTableFilledIcon,
+  DownloadIcon,
   DragIndicatorIcon,
   DriverLicenseIcon,
   DriverPassportIcon,
