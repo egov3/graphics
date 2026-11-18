@@ -8,6 +8,7 @@ import { EgovInfoIcon } from "./EgovInfoIcon";
 import { FaceIdIllustration } from "./FaceId";
 import { InternetNotAvailableIllustration } from "./InternetNotAvailable";
 import { LanguageGraphicsIllustration } from "./Language";
+import { NotificationsIcon } from "./NotificationsIcon";
 import { NotificationsIllustration } from "./Notifications";
 import { PlayStoreIllustration } from "./PlayStore";
 import { PlayStoreIconIllustration } from "./PlayStoreIcon";
@@ -34,6 +35,7 @@ const Illustrations = {
   InternetNotAvailableIllustration,
   LanguageGraphicsIllustration,
   NotificationsIllustration,
+  NotificationsIcon,
   RegistrationSuccessIllustration,
   ServerErrorIllustration,
   ServerTechnicalWorksIllustration,
